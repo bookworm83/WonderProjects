@@ -1,0 +1,1001 @@
+movie_id,movie_title,release_year,runtime_min,genre,rate,metascore,votes,director,gross_usd
+1,The Shawshank Redemption,1994,142,Drama,9.3,80,2295987,Frank Darabont,28340000
+2,The Godfather,1972,175,"Crime, Drama",9.2,100,1584782,Francis Ford Coppola,134970000
+3,The Dark Knight,2008,152,"Action, Crime, Drama",9.0,84,2260649,Christopher Nolan,534860000
+4,The Godfather: Part II,1974,202,"Crime, Drama",9.0,90,1107253,Francis Ford Coppola,57300000
+5,The Lord of the Rings: The Return of the King,2003,201,"Action, Adventure, Drama",8.9,94,1614369,Peter Jackson,377850000
+6,Pulp Fiction,1994,154,"Crime, Drama",8.9,94,1792919,Quentin Tarantino,107930000
+7,Schindler's List,1993,195,"Biography, Drama, History",8.9,94,1191793,Steven Spielberg,96900000
+8,12 Angry Men,1957,96,"Crime, Drama",8.9,96,674629,Sidney Lumet,4360000
+9,Inception,2010,148,"Action, Adventure, Sci-Fi",8.8,74,2022655,Christopher Nolan,292580000
+10,Fight Club,1999,139,Drama,8.8,66,1820268,David Fincher,37030000
+11,The Lord of the Rings: The Fellowship of the Ring,2001,178,"Action, Adventure, Drama",8.8,92,1630106,Peter Jackson,315540000
+12,Forrest Gump,1994,142,"Drama, Romance",8.8,82,1769309,Robert Zemeckis,330250000
+13,"The Good, the Bad and the Ugly",1966,178,Western,8.8,90,677184,Sergio Leone,6100000
+14,Hamilton,2020,160,"Biography, Drama, History",8.7,90,44141,Thomas Kail,
+15,The Lord of the Rings: The Two Towers,2002,179,"Action, Adventure, Drama",8.7,87,1459119,Peter Jackson,342550000
+16,The Matrix,1999,136,"Action, Sci-Fi",8.7,73,1643911,"Directors: Lana Wachowski, Lilly Wachowski",171480000
+17,Goodfellas,1990,146,"Biography, Crime, Drama",8.7,90,999623,Martin Scorsese,46840000
+18,Star Wars: Episode V - The Empire Strikes Back,1980,124,"Action, Adventure, Fantasy",8.7,82,1139296,Irvin Kershner,290480000
+19,One Flew Over the Cuckoo's Nest,1975,133,Drama,8.7,83,901247,Milos Forman,112000000
+20,Parasite,2019,132,"Comedy, Drama, Thriller",8.6,96,493887,Bong Joon Ho,53370000
+21,Interstellar,2014,169,"Adventure, Drama, Sci-Fi",8.6,74,1468447,Christopher Nolan,188020000
+22,City of God,2002,130,"Crime, Drama",8.6,79,689676,"Directors: Fernando Meirelles, Kátia Lund",7560000
+23,Spirited Away,2001,125,"Animation, Adventure, Family",8.6,96,633673,Hayao Miyazaki,10060000
+24,Saving Private Ryan,1998,169,"Drama, War",8.6,91,1212774,Steven Spielberg,216540000
+25,The Green Mile,1999,189,"Crime, Drama, Fantasy",8.6,61,1122263,Frank Darabont,136800000
+26,Life Is Beautiful,1997,116,"Comedy, Drama, Romance",8.6,,610713,Roberto Benigni,57600000
+27,Se7en,1995,127,"Crime, Drama, Mystery",8.6,65,1414169,David Fincher,100130000
+28,The Silence of the Lambs,1991,118,"Crime, Drama, Thriller",8.6,85,1244794,Jonathan Demme,130740000
+29,Star Wars: Episode IV - A New Hope,1977,121,"Action, Adventure, Fantasy",8.6,90,1211042,George Lucas,322740000
+30,Harakiri,1962,133,"Action, Drama, Mystery",8.6,85,38773,Masaki Kobayashi,
+31,Seven Samurai,1954,207,"Action, Adventure, Drama",8.6,98,310435,Akira Kurosawa,270000
+32,It's a Wonderful Life,1946,130,"Drama, Family, Fantasy",8.6,89,390884,Frank Capra,
+33,Joker,2019,122,"Crime, Drama, Thriller",8.5,,882903,Todd Phillips,335450000
+34,Whiplash,2014,106,"Drama, Music",8.5,88,697753,Damien Chazelle,13090000
+35,The Intouchables,2011,112,"Biography, Comedy, Drama",8.5,,742461,"Directors: Olivier Nakache, Éric Toledano",13180000
+36,The Prestige,2006,130,"Drama, Mystery, Sci-Fi",8.5,66,1165395,Christopher Nolan,53090000
+37,The Departed,2006,151,"Crime, Drama, Thriller",8.5,85,1167751,Martin Scorsese,132380000
+38,The Pianist,2002,150,"Biography, Drama, Music",8.5,85,713857,Roman Polanski,32570000
+39,Gladiator,2000,155,"Action, Adventure, Drama",8.5,67,1317068,Ridley Scott,187710000
+40,American History X,1998,119,Drama,8.5,62,1020014,Tony Kaye,6720000
+41,The Usual Suspects,1995,106,"Crime, Mystery, Thriller",8.5,77,975320,Bryan Singer,23340000
+42,Léon: The Professional,1994,110,"Action, Crime, Drama",8.5,64,1015364,Luc Besson,19500000
+43,The Lion King,1994,88,"Animation, Adventure, Drama",8.5,88,923988,"Directors: Roger Allers, Rob Minkoff",422780000
+44,Terminator 2: Judgment Day,1991,137,"Action, Sci-Fi",8.5,75,980974,James Cameron,204840000
+45,Cinema Paradiso,1988,155,Drama,8.5,80,225330,Giuseppe Tornatore,11990000
+46,Grave of the Fireflies,1988,89,"Animation, Drama, War",8.5,94,228405,Isao Takahata,
+47,Back to the Future,1985,116,"Adventure, Comedy, Sci-Fi",8.5,87,1036180,Robert Zemeckis,210610000
+48,Anand,1971,122,"Drama, Musical",8.5,,28923,Hrishikesh Mukherjee,
+49,Once Upon a Time in the West,1968,165,Western,8.5,80,297767,Sergio Leone,5320000
+50,Psycho,1960,109,"Horror, Mystery, Thriller",8.5,97,592419,Alfred Hitchcock,32000000
+51,Casablanca,1942,102,"Drama, Romance, War",8.5,100,513591,Michael Curtiz,1020000
+52,Modern Times,1936,87,"Comedy, Drama, Family",8.5,96,213289,Charles Chaplin,160000
+53,City Lights,1931,87,"Comedy, Drama, Romance",8.5,99,164332,Charles Chaplin,20000
+54,Capernaum,2018,126,Drama,8.4,75,56305,Nadine Labaki,1660000
+55,Ayla: The Daughter of War,2017,125,"Biography, Drama, History",8.4,,32732,Can Ulkay,
+56,Your Name.,2016,106,"Animation, Drama, Fantasy",8.4,79,183264,Makoto Shinkai,5020000
+57,Dangal,2016,161,"Action, Biography, Drama",8.4,,150228,Nitesh Tiwari,12390000
+58,Spider-Man: Into the Spider-Verse,2018,117,"Animation, Action, Adventure",8.4,87,344823,"Directors: Bob Persichetti, Peter Ramsey, Rodney Rothman",190240000
+59,Avengers: Endgame,2019,181,"Action, Adventure, Drama",8.4,78,772451,"Directors: Anthony Russo, Joe Russo",858370000
+60,Avengers: Infinity War,2018,149,"Action, Adventure, Sci-Fi",8.4,68,806961,"Directors: Anthony Russo, Joe Russo",678820000
+61,Coco (I),2017,105,"Animation, Adventure, Family",8.4,81,359386,"Directors: Lee Unkrich, Adrian Molina",209730000
+62,Django Unchained,2012,165,"Drama, Western",8.4,81,1328656,Quentin Tarantino,162810000
+63,The Dark Knight Rises,2012,164,"Action, Adventure",8.4,78,1491281,Christopher Nolan,448140000
+64,3 Idiots,2009,170,"Comedy, Drama",8.4,67,335511,Rajkumar Hirani,6530000
+65,Like Stars on Earth,2007,165,"Drama, Family",8.4,,163796,"Directors: Aamir Khan, Amole Gupte",1220000
+66,WALL·E,2008,98,"Animation, Adventure, Family",8.4,95,981245,Andrew Stanton,223810000
+67,The Lives of Others,2006,137,"Drama, Mystery, Thriller",8.4,89,352300,Florian Henckel von Donnersmarck,11290000
+68,Oldboy,2003,120,"Action, Drama, Mystery",8.4,77,505043,Chan-wook Park,710000
+69,Memento,2000,113,"Mystery, Thriller",8.4,80,1107298,Christopher Nolan,25540000
+70,Princess Mononoke,1997,134,"Animation, Adventure, Fantasy",8.4,76,334608,Hayao Miyazaki,2380000
+71,Once Upon a Time in America,1984,229,"Crime, Drama",8.4,,304974,Sergio Leone,5320000
+72,Raiders of the Lost Ark,1981,115,"Action, Adventure",8.4,85,870596,Steven Spielberg,248160000
+73,The Shining,1980,146,"Drama, Horror",8.4,66,877721,Stanley Kubrick,44020000
+74,Apocalypse Now,1979,147,"Drama, Mystery, War",8.4,94,595450,Francis Ford Coppola,83470000
+75,Alien,1979,117,"Horror, Sci-Fi",8.4,89,774503,Ridley Scott,78900000
+76,High and Low,1963,143,"Crime, Drama, Mystery",8.4,,32302,Akira Kurosawa,
+77,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,Comedy,8.4,97,443870,Stanley Kubrick,280000
+78,Witness for the Prosecution,1957,116,"Crime, Drama, Mystery",8.4,,106051,Billy Wilder,8180000
+79,Paths of Glory,1957,88,"Drama, War",8.4,90,174411,Stanley Kubrick,
+80,Rear Window,1954,112,"Mystery, Thriller",8.4,100,435967,Alfred Hitchcock,36760000
+81,Sunset Blvd.,1950,110,"Drama, Film-Noir",8.4,,197786,Billy Wilder,
+82,The Great Dictator,1940,125,"Comedy, Drama, War",8.4,,199210,Charles Chaplin,290000
+83,1917,2019,119,"Drama, War",8.3,78,378902,Sam Mendes,159230000
+84,Uri: The Surgical Strike,2019,138,"Action, Drama, War",8.3,,41887,Aditya Dhar,4190000
+85,Tumbbad,2018,104,"Drama, Fantasy, Horror",8.3,,25282,"Directors: Rahi Anil Barve, Anand Gandhi, Adesh Prasad",
+86,Andhadhun,2018,139,"Crime, Thriller",8.3,,67476,Sriram Raghavan,1370000
+87,Drishyam,2013,160,"Crime, Drama, Thriller",8.3,,30002,Jeethu Joseph,
+88,The Hunt,2012,115,Drama,8.3,77,272611,Thomas Vinterberg,690000
+89,A Separation,2011,123,"Drama, Thriller",8.3,95,215724,Asghar Farhadi,7100000
+90,Incendies,2010,131,"Drama, Mystery, War",8.3,80,144833,Denis Villeneuve,6860000
+91,7 Kogustaki Mucize,2019,132,Drama,8.3,,30188,Mehmet Ada Öztekin,
+92,My Father and My Son,2005,112,"Drama, Family",8.3,,76924,Çagan Irmak,
+93,Toy Story 3,2010,103,"Animation, Adventure, Comedy",8.3,92,744492,Lee Unkrich,415000000
+94,Inglourious Basterds,2009,153,"Adventure, Drama, War",8.3,69,1239498,Quentin Tarantino,120540000
+95,Eternal Sunshine of the Spotless Mind,2004,108,"Drama, Romance, Sci-Fi",8.3,89,896399,Michel Gondry,34400000
+96,Amélie,2001,122,"Comedy, Romance",8.3,69,694066,Jean-Pierre Jeunet,33229999
+97,Snatch,2000,102,"Comedy, Crime",8.3,,770859,Guy Ritchie,30330000
+98,Requiem for a Dream,2000,102,Drama,8.3,68,753713,Darren Aronofsky,3640000
+99,American Beauty,1999,122,Drama,8.3,84,1054672,Sam Mendes,130100000
+100,Good Will Hunting,1997,126,"Drama, Romance",8.3,70,844208,Gus Van Sant,138430000
+101,Children of Heaven,1997,89,"Drama, Family, Sport",8.3,77,63321,Majid Majidi,930000
+102,Toy Story,1995,81,"Animation, Adventure, Comedy",8.3,95,870618,John Lasseter,191800000
+103,Braveheart,1995,178,"Biography, Drama, History",8.3,68,946442,Mel Gibson,75600000
+104,Reservoir Dogs,1992,99,"Crime, Drama, Thriller",8.3,79,902744,Quentin Tarantino,2830000
+105,Full Metal Jacket,1987,116,"Drama, War",8.3,76,663140,Stanley Kubrick,46360000
+106,Come and See,1985,142,"Drama, Thriller, War",8.3,,55744,Elem Klimov,
+107,Aliens,1986,137,"Action, Adventure, Sci-Fi",8.3,84,643457,James Cameron,85160000
+108,Amadeus,1984,160,"Biography, Drama, History",8.3,88,363387,Milos Forman,51970000
+109,Scarface,1983,170,"Crime, Drama",8.3,65,726839,Brian De Palma,45600000
+110,Star Wars: Episode VI - Return of the Jedi,1983,131,"Action, Adventure, Fantasy",8.3,,933808,Richard Marquand,309130000
+111,Das Boot,1981,149,"Adventure, Drama, Thriller",8.3,86,228112,Wolfgang Petersen,11490000
+112,Taxi Driver,1976,114,"Crime, Drama",8.3,94,709433,Martin Scorsese,28260000
+113,The Sting,1973,129,"Comedy, Crime, Drama",8.3,83,237865,George Roy Hill,159600000
+114,A Clockwork Orange,1971,136,"Crime, Drama, Sci-Fi",8.3,77,745296,Stanley Kubrick,6210000
+115,2001: A Space Odyssey,1968,149,"Adventure, Sci-Fi",8.3,84,592443,Stanley Kubrick,56950000
+116,For a Few Dollars More,1965,132,Western,8.3,74,228305,Sergio Leone,15000000
+117,Lawrence of Arabia,1962,228,"Adventure, Biography, Drama",8.3,100,263491,David Lean,44820000
+118,The Apartment,1960,125,"Comedy, Drama, Romance",8.3,94,160657,Billy Wilder,18600000
+119,North by Northwest,1959,136,"Adventure, Mystery, Thriller",8.3,98,294175,Alfred Hitchcock,13280000
+120,Vertigo,1958,128,"Mystery, Romance, Thriller",8.3,100,356579,Alfred Hitchcock,3200000
+121,Singin' in the Rain,1952,103,"Comedy, Musical, Romance",8.3,99,214849,"Directors: Stanley Donen, Gene Kelly",8820000
+122,Ikiru,1952,143,Drama,8.3,,66415,Akira Kurosawa,60000
+123,Bicycle Thieves,1948,89,Drama,8.3,,143052,Vittorio De Sica,330000
+124,Double Indemnity,1944,107,"Crime, Drama, Film-Noir",8.3,95,140879,Billy Wilder,5720000
+125,Citizen Kane,1941,119,"Drama, Mystery",8.3,100,392283,Orson Welles,1590000
+126,M,1931,99,"Crime, Mystery, Thriller",8.3,,140682,Fritz Lang,30000
+127,Metropolis,1927,153,"Drama, Sci-Fi",8.3,98,157436,Fritz Lang,1240000
+128,The Kid,1921,68,"Comedy, Drama, Family",8.3,,110513,Charles Chaplin,5450000
+129,Chhichhore,2019,143,"Comedy, Drama",8.2,,30676,Nitesh Tiwari,900000
+130,K.G.F: Chapter 1,2018,156,"Action, Drama",8.2,,32652,Prashanth Neel,
+131,Green Book,2018,130,"Biography, Comedy, Drama",8.2,69,349960,Peter Farrelly,85080000
+132,"Three Billboards Outside Ebbing, Missouri",2017,115,"Comedy, Crime, Drama",8.2,88,417153,Martin McDonagh,54510000
+133,Talvar,2015,132,"Crime, Drama, Mystery",8.2,,30321,Meghna Gulzar,340000
+134,Baahubali 2: The Conclusion,2017,167,"Action, Drama",8.2,,73216,S.S. Rajamouli,20190000
+135,Klaus,2019,96,"Animation, Adventure, Comedy",8.2,65,77228,"Directors: Sergio Pablos, Carlos Martínez López",
+136,Drishyam,2015,163,"Crime, Drama, Mystery",8.2,,67235,Nishikant Kamat,740000
+137,Queen,2013,146,"Adventure, Comedy, Drama",8.2,,59874,Vikas Bahl,1430000
+138,Tangerines,2013,87,"Drama, War",8.2,73,38259,Zaza Urushadze,140000
+139,Bhaag Milkha Bhaag,2013,186,"Biography, Drama, Sport",8.2,,59970,Rakeysh Omprakash Mehra,1630000
+140,Gangs of Wasseypur,2012,321,"Action, Crime, Drama",8.2,89,79572,Anurag Kashyap,
+141,Udaan,2010,134,Drama,8.2,,41803,Vikramaditya Motwane,10000
+142,Paan Singh Tomar,2012,135,"Action, Biography, Crime",8.2,,32650,Tigmanshu Dhulia,40000
+143,The Secret in Their Eyes,2009,129,"Drama, Mystery, Romance",8.2,80,189425,Juan José Campanella,6390000
+144,Warrior,2011,140,"Action, Drama, Sport",8.2,71,429970,Gavin O'Connor,13660000
+145,Shutter Island,2010,138,"Mystery, Thriller",8.2,63,1105456,Martin Scorsese,128009999
+146,Up,2009,96,"Animation, Adventure, Comedy",8.2,88,917839,"Directors: Pete Docter, Bob Peterson",293000000
+147,The Wolf of Wall Street,2013,180,"Biography, Crime, Drama",8.2,75,1152702,Martin Scorsese,116900000
+148,Chak De! India,2007,153,"Drama, Family, Sport",8.2,68,72790,Shimit Amin,1110000
+149,There Will Be Blood,2007,158,Drama,8.2,93,506982,Paul Thomas Anderson,40220000
+150,Pan's Labyrinth,2006,118,"Drama, Fantasy, War",8.2,98,610311,Guillermo del Toro,37630000
+151,V for Vendetta,2005,132,"Action, Drama, Sci-Fi",8.2,62,1015793,James McTeigue,70510000
+152,Rang De Basanti,2006,167,"Comedy, Drama",8.2,,109864,Rakeysh Omprakash Mehra,2200000
+153,Black,2005,122,Drama,8.2,,33017,Sanjay Leela Bhansali,730000
+154,Batman Begins,2005,140,"Action, Adventure",8.2,70,1287216,Christopher Nolan,206850000
+155,Swades,2004,189,Drama,8.2,,81831,Ashutosh Gowariker,1220000
+156,Downfall,2004,156,"Biography, Drama, History",8.2,82,326660,Oliver Hirschbiegel,5510000
+157,Howl's Moving Castle,2004,119,"Animation, Adventure, Family",8.2,80,323510,Hayao Miyazaki,4710000
+158,A Beautiful Mind,2001,135,"Biography, Drama",8.2,72,833407,Ron Howard,170740000
+159,Hera Pheri,2000,156,"Action, Comedy, Crime",8.2,,55580,Priyadarshan,
+160,"Lock, Stock and Two Smoking Barrels",1998,107,"Action, Comedy, Crime",8.2,66,527621,Guy Ritchie,3900000
+161,L.A. Confidential,1997,138,"Crime, Drama, Mystery",8.2,90,524506,Curtis Hanson,64620000
+162,The Bandit,1996,128,"Crime, Drama, Thriller",8.2,,62585,Yavuz Turgul,
+163,Heat,1995,170,"Crime, Drama, Thriller",8.2,76,566421,Michael Mann,67440000
+164,Casino,1995,178,"Crime, Drama",8.2,73,456858,Martin Scorsese,42440000
+165,Andaz Apna Apna,1994,160,"Comedy, Romance",8.2,,48616,Rajkumar Santoshi,
+166,Unforgiven,1992,130,"Drama, Western",8.2,85,369888,Clint Eastwood,101160000
+167,Indiana Jones and the Last Crusade,1989,127,"Action, Adventure",8.2,65,681051,Steven Spielberg,197170000
+168,My Neighbor Totoro,1988,86,"Animation, Family, Fantasy",8.2,86,282234,Hayao Miyazaki,1110000
+169,Die Hard,1988,132,"Action, Thriller",8.2,72,772060,John McTiernan,83010000
+170,Ran,1985,162,"Action, Drama, War",8.2,96,110056,Akira Kurosawa,4139999
+171,Raging Bull,1980,129,"Biography, Drama, Sport",8.2,89,316223,Martin Scorsese,23380000
+172,Stalker,1979,162,"Drama, Sci-Fi",8.2,,113530,Andrei Tarkovsky,230000
+173,The Message,1976,177,"Biography, Drama, History",8.2,,43188,Moustapha Akkad,
+174,Sholay,1975,162,"Action, Adventure, Comedy",8.2,,50530,Ramesh Sippy,
+175,Monty Python and the Holy Grail,1975,91,"Adventure, Comedy, Fantasy",8.2,91,494389,"Directors: Terry Gilliam, Terry Jones",1230000
+176,The Great Escape,1963,172,"Adventure, Drama, History",8.2,86,221171,John Sturges,12100000
+177,To Kill a Mockingbird,1962,129,"Crime, Drama",8.2,88,290386,Robert Mulligan,
+178,Yojimbo,1961,110,"Action, Drama, Thriller",8.2,,108813,Akira Kurosawa,
+179,Judgment at Nuremberg,1961,179,"Drama, War",8.2,,68064,Stanley Kramer,
+180,Some Like It Hot,1959,121,"Comedy, Music, Romance",8.2,98,239812,Billy Wilder,25000000
+181,Wild Strawberries,1957,91,"Drama, Romance",8.2,88,93906,Ingmar Bergman,
+182,The Seventh Seal,1957,96,"Drama, Fantasy",8.2,88,160949,Ingmar Bergman,
+183,Rififi,1955,118,"Crime, Drama, Thriller",8.2,97,27251,Jules Dassin,60000
+184,Dial M for Murder,1954,105,"Crime, Thriller",8.2,75,154901,Alfred Hitchcock,10000
+185,Tokyo Story,1953,136,Drama,8.2,,51291,Yasujirô Ozu,
+186,Rashomon,1950,88,"Crime, Drama, Mystery",8.2,98,149595,Akira Kurosawa,100000
+187,All About Eve,1950,138,Drama,8.2,98,118599,Joseph L. Mankiewicz,10000
+188,The Treasure of the Sierra Madre,1948,126,"Adventure, Drama, Western",8.2,98,112389,John Huston,5010000
+189,To Be or Not to Be,1942,99,"Comedy, War",8.2,86,28316,Ernst Lubitsch,
+190,The Gold Rush,1925,95,"Adventure, Comedy, Drama",8.2,,98647,Charles Chaplin,5450000
+191,Sherlock Jr.,1924,45,"Action, Comedy, Romance",8.2,,40404,Buster Keaton,980000
+192,Portrait of a Lady on Fire,2019,122,"Drama, Romance",8.1,95,53839,Céline Sciamma,3760000
+193,Pink (III),2016,136,"Drama, Thriller",8.1,,38119,Aniruddha Roy Chowdhury,1240000
+194,A Silent Voice: The Movie,2016,130,"Animation, Drama, Family",8.1,78,42737,Naoko Yamada,
+195,The Invisible Guest,2016,106,"Crime, Drama, Mystery",8.1,,130927,Oriol Paulo,
+196,The Handmaiden,2016,145,"Drama, Romance, Thriller",8.1,84,107104,Chan-wook Park,2009999
+197,Mommy (I),2014,139,Drama,8.1,74,49275,Xavier Dolan,3490000
+198,Haider,2014,160,"Action, Crime, Drama",8.1,,49701,Vishal Bhardwaj,900000
+199,Wild Tales,2014,122,"Comedy, Drama, Thriller",8.1,77,172434,Damián Szifron,3110000
+200,Winter Sleep,2014,196,Drama,8.1,88,44411,Nuri Bilge Ceylan,170000
+201,Baahubali: The Beginning,2015,159,"Action, Drama",8.1,,100826,S.S. Rajamouli,6740000
+202,Gully Boy,2019,153,"Drama, Music",8.1,65,30303,Zoya Akhtar,5570000
+203,PK,2014,153,"Comedy, Drama, Musical",8.1,,158690,Rajkumar Hirani,10620000
+204,OMG: Oh My God!,2012,125,"Comedy, Drama, Fantasy",8.1,,50288,Umesh Shukla,920000
+205,The Grand Budapest Hotel,2014,99,"Adventure, Comedy, Crime",8.1,88,692641,Wes Anderson,59100000
+206,Gone Girl,2014,149,"Drama, Mystery, Thriller",8.1,79,840447,David Fincher,167770000
+207,Wolf Children,2012,117,"Animation, Drama, Family",8.1,71,37666,Mamoru Hosoda,
+208,Hacksaw Ridge,2016,139,"Biography, Drama, History",8.1,71,423108,Mel Gibson,67210000
+209,Inside Out (I),2015,95,"Animation, Adventure, Comedy",8.1,94,598153,"Directors: Pete Docter, Ronnie Del Carmen",356460000
+210,Barfi!,2012,151,"Comedy, Drama, Romance",8.1,,74509,Anurag Basu,2800000
+211,12 Years a Slave,2013,134,"Biography, Drama, History",8.1,96,628924,Steve McQueen,56670000
+212,Rush (I),2013,123,"Action, Biography, Drama",8.1,74,425706,Ron Howard,26950000
+213,Ford v Ferrari,2019,152,"Action, Biography, Drama",8.1,81,266291,James Mangold,117620000
+214,Spotlight (I),2015,129,"Biography, Crime, Drama",8.1,93,410417,Tom McCarthy,45060000
+215,Song of the Sea,2014,93,"Animation, Adventure, Drama",8.1,85,49756,Tomm Moore,860000
+216,Kahaani,2012,122,"Mystery, Thriller",8.1,,56842,Sujoy Ghosh,1040000
+217,Zindagi Na Milegi Dobara,2011,155,"Comedy, Drama",8.1,,66262,Zoya Akhtar,3110000
+218,Prisoners,2013,153,"Crime, Drama, Mystery",8.1,70,586763,Denis Villeneuve,61000000
+219,Mad Max: Fury Road,2015,120,"Action, Adventure, Sci-Fi",8.1,90,863405,George Miller,154060000
+220,A Wednesday,2008,104,"Action, Crime, Drama",8.1,,72971,Neeraj Pandey,
+221,Gran Torino,2008,116,Drama,8.1,72,711102,Clint Eastwood,148100000
+222,Harry Potter and the Deathly Hallows: Part 2,2011,130,"Adventure, Drama, Fantasy",8.1,85,748824,David Yates,381010000
+223,Departures,2008,130,"Drama, Music",8.1,68,47933,Yôjirô Takita,1500000
+224,Hachi: A Dog's Tale,2009,93,"Drama, Family",8.1,,247872,Lasse Hallström,
+225,Mary and Max,2009,92,"Animation, Comedy, Drama",8.1,,162065,Adam Elliot,
+226,How to Train Your Dragon,2010,98,"Animation, Action, Adventure",8.1,75,655613,"Directors: Dean DeBlois, Chris Sanders",217580000
+227,Elite Squad,2007,115,"Action, Crime, Drama",8.1,,97007,José Padilha,10000
+228,Into the Wild,2007,148,"Adventure, Biography, Drama",8.1,73,563894,Sean Penn,18350000
+229,No Country for Old Men,2007,122,"Crime, Drama, Thriller",8.1,91,838551,"Directors: Ethan Coen, Joel Coen",74280000
+230,Lage Raho Munna Bhai,2006,144,"Comedy, Drama, Romance",8.1,,42267,Rajkumar Hirani,2220000
+231,Million Dollar Baby,2004,132,"Drama, Sport",8.1,86,626932,Clint Eastwood,100490000
+232,Hotel Rwanda,2004,121,"Biography, Drama, History",8.1,79,330697,Terry George,23530000
+233,Tae Guk Gi: The Brotherhood of War,2004,140,"Action, Drama, War",8.1,64,37485,Je-kyu Kang,1110000
+234,Before Sunset,2004,80,"Drama, Romance",8.1,90,230917,Richard Linklater,5820000
+235,Munna Bhai M.B.B.S.,2003,156,"Comedy, Drama, Musical",8.1,,72534,Rajkumar Hirani,
+236,Memories of Murder,2003,132,"Action, Crime, Drama",8.1,82,131346,Bong Joon Ho,10000
+237,Dil Chahta Hai,2001,183,"Comedy, Drama, Romance",8.1,,65835,Farhan Akhtar,300000
+238,Kill Bill: Vol. 1,2003,111,"Action, Crime, Thriller",8.1,69,983871,Quentin Tarantino,70100000
+239,Finding Nemo,2003,100,"Animation, Adventure, Comedy",8.1,90,933762,"Directors: Andrew Stanton, Lee Unkrich",380840000
+240,Catch Me If You Can,2002,141,"Biography, Crime, Drama",8.1,75,808593,Steven Spielberg,164620000
+241,Amores Perros,2000,154,"Drama, Thriller",8.1,83,220525,Alejandro G. Iñárritu,5380000
+242,Neon Genesis Evangelion: The End of Evangelion,1997,87,"Animation, Action, Drama",8.1,,37141,"Directors: Hideaki Anno, Kazuya Tsurumaki",
+243,Lagaan: Once Upon a Time in India,2001,224,"Adventure, Drama, Musical",8.1,84,103246,Ashutosh Gowariker,70000
+244,The Sixth Sense,1999,107,"Drama, Mystery, Thriller",8.1,64,899294,M. Night Shyamalan,293510000
+245,The Legend of 1900,1998,169,"Drama, Music, Romance",8.1,,57916,Giuseppe Tornatore,260000
+246,The Truman Show,1998,103,"Comedy, Drama, Sci-Fi",8.1,90,918604,Peter Weir,125620000
+247,"Black Cat, White Cat",1998,127,"Comedy, Crime, Romance",8.1,73,50107,Emir Kusturica,350000
+248,The Big Lebowski,1998,117,"Comedy, Crime, Sport",8.1,71,719459,"Directors: Joel Coen, Ethan Coen",17500000
+249,In the Mood for Love,2000,98,"Drama, Romance",8.1,85,120591,Kar-Wai Wong,2730000
+250,Trainspotting,1996,93,Drama,8.1,83,626483,Danny Boyle,16500000
+251,Fargo,1996,98,"Crime, Drama, Thriller",8.1,85,605437,"Directors: Joel Coen, Ethan Coen",24610000
+252,Underground,1995,167,"Comedy, Drama, War",8.1,,54475,Emir Kusturica,170000
+253,La Haine,1995,98,"Crime, Drama",8.1,,146205,Mathieu Kassovitz,310000
+254,Dilwale Dulhania Le Jayenge,1995,181,"Drama, Romance",8.1,,62360,Aditya Chopra,
+255,Before Sunrise,1995,101,"Drama, Romance",8.1,77,265523,Richard Linklater,5540000
+256,Three Colors: Red,1994,99,"Drama, Mystery, Romance",8.1,100,88697,Krzysztof Kieslowski,4040000
+257,Chungking Express,1994,102,"Comedy, Crime, Drama",8.1,77,60857,Kar-Wai Wong,600000
+258,Jurassic Park,1993,127,"Action, Adventure, Sci-Fi",8.1,68,852358,Steven Spielberg,402450000
+259,In the Name of the Father,1993,133,"Biography, Drama",8.1,84,154017,Jim Sheridan,25010000
+260,Raise the Red Lantern,1991,125,"Drama, History, Romance",8.1,,29016,Yimou Zhang,2600000
+261,Dead Poets Society,1989,128,"Comedy, Drama",8.1,79,414799,Peter Weir,95860000
+262,The Princess Bride,1987,98,"Adventure, Family, Fantasy",8.1,77,388123,Rob Reiner,30860000
+263,Stand by Me,1986,89,"Adventure, Drama",8.1,75,358019,Rob Reiner,52290000
+264,Platoon,1986,120,"Drama, War",8.1,92,375400,Oliver Stone,138530000
+265,"Paris, Texas",1984,145,Drama,8.1,78,87836,Wim Wenders,2180000
+266,Nausicaä of the Valley of the Wind,1984,117,"Animation, Adventure, Fantasy",8.1,86,146806,Hayao Miyazaki,500000
+267,The Thing,1982,109,"Horror, Mystery, Sci-Fi",8.1,,363529,John Carpenter,13780000
+268,Pink Floyd: The Wall,1982,95,"Drama, Fantasy, Music",8.1,,75151,Alan Parker,22240000
+269,Fitzcarraldo,1982,158,"Adventure, Drama",8.1,,30840,Werner Herzog,
+270,Fanny and Alexander,1982,188,Drama,8.1,100,56644,Ingmar Bergman,4970000
+271,Blade Runner,1982,117,"Action, Sci-Fi, Thriller",8.1,84,682656,Ridley Scott,32869999
+272,The Elephant Man,1980,124,"Biography, Drama",8.1,78,216194,David Lynch,
+273,Monty Python's Life of Brian,1979,94,Comedy,8.1,77,361690,Terry Jones,20050000
+274,The Deer Hunter,1978,183,"Drama, War",8.1,86,306403,Michael Cimino,48980000
+275,Rocky,1976,120,"Drama, Sport",8.1,70,509331,John G. Avildsen,117240000
+276,Network,1976,121,Drama,8.1,83,142834,Sidney Lumet,
+277,Barry Lyndon,1975,185,"Adventure, Drama, History",8.1,89,146607,Stanley Kubrick,
+278,The Mirror,1975,107,"Biography, Drama",8.1,,38658,Andrei Tarkovsky,180000
+279,Chinatown,1974,130,"Drama, Mystery, Thriller",8.1,92,289138,Roman Polanski,29200000
+280,Paper Moon,1973,102,"Comedy, Crime, Drama",8.1,77,41550,Peter Bogdanovich,30930000
+281,Cries & Whispers,1972,91,Drama,8.1,,29447,Ingmar Bergman,1740000
+282,Solaris,1972,167,"Drama, Mystery, Sci-Fi",8.1,90,79086,Andrei Tarkovsky,
+283,Le Samouraï,1967,101,"Crime, Drama, Mystery",8.1,,44382,Jean-Pierre Melville,40000
+284,Cool Hand Luke,1967,127,"Crime, Drama",8.1,92,159322,Stuart Rosenberg,16219999
+285,Persona,1966,83,"Drama, Thriller",8.1,86,100176,Ingmar Bergman,
+286,Andrei Rublev,1966,205,"Biography, Drama, History",8.1,,45448,Andrei Tarkovsky,100000
+287,The Battle of Algiers,1966,121,"Drama, War",8.1,96,51734,Gillo Pontecorvo,60000
+288,The Exterminating Angel,1962,95,"Drama, Fantasy",8.1,,29090,Luis Buñuel,
+289,What Ever Happened to Baby Jane?,1962,134,"Drama, Horror, Thriller",8.1,75,49174,Robert Aldrich,4050000
+290,Sanjuro,1962,96,"Action, Comedy, Crime",8.1,,31989,Akira Kurosawa,
+291,The Man Who Shot Liberty Valance,1962,123,"Drama, Western",8.1,94,67663,John Ford,
+292,Ivan's Childhood,1962,84,"Drama, War",8.1,,30668,"Directors: Andrei Tarkovsky, Eduard Abalov",
+293,The Virgin Spring,1960,89,Drama,8.1,,26213,Ingmar Bergman,1530000
+294,Inherit the Wind,1960,128,"Biography, Drama, History",8.1,75,26865,Stanley Kramer,
+295,The 400 Blows,1959,99,"Crime, Drama",8.1,,102891,François Truffaut,
+296,Ben-Hur,1959,212,"Adventure, Drama, History",8.1,90,216130,William Wyler,74700000
+297,The Hidden Fortress,1958,126,"Adventure, Drama",8.1,,33761,Akira Kurosawa,
+298,Sweet Smell of Success,1957,96,"Drama, Film-Noir",8.1,100,27489,Alexander Mackendrick,
+299,Nights of Cabiria,1957,110,Drama,8.1,,42160,Federico Fellini,750000
+300,Throne of Blood,1957,110,"Drama, History",8.1,,45579,Akira Kurosawa,
+301,The Bridge on the River Kwai,1957,161,"Adventure, Drama, War",8.1,87,200215,David Lean,44910000
+302,On the Waterfront,1954,108,"Crime, Drama, Thriller",8.1,91,139663,Elia Kazan,9600000
+303,The Wages of Fear,1953,131,"Adventure, Drama, Thriller",8.1,85,53438,Henri-Georges Clouzot,
+304,Ace in the Hole,1951,111,"Drama, Film-Noir",8.1,72,30824,Billy Wilder,3970000
+305,White Heat,1949,114,"Action, Crime, Drama",8.1,,29209,Raoul Walsh,
+306,The Third Man,1949,93,"Film-Noir, Mystery, Thriller",8.1,97,156370,Carol Reed,450000
+307,The Red Shoes,1948,135,"Drama, Music, Romance",8.1,,30229,"Directors: Michael Powell, Emeric Pressburger",10900000
+308,The Shop Around the Corner,1940,99,"Comedy, Drama, Romance",8.1,96,27039,Ernst Lubitsch,200000
+309,Rebecca,1940,130,"Drama, Mystery, Romance",8.1,86,120476,Alfred Hitchcock,4360000
+310,Mr. Smith Goes to Washington,1939,129,"Comedy, Drama",8.1,73,105195,Frank Capra,9600000
+311,Gone with the Wind,1939,238,"Drama, History, Romance",8.1,97,285661,"Directors: Victor Fleming, George Cukor, Sam Wood",198680000
+312,La Grande Illusion,1937,113,"Drama, War",8.1,,33364,Jean Renoir,170000
+313,It Happened One Night,1934,105,"Comedy, Romance",8.1,87,92103,Frank Capra,4360000
+314,The Passion of Joan of Arc,1928,114,"Biography, Drama, History",8.1,,46359,Carl Theodor Dreyer,20000
+315,The Circus,1928,72,"Comedy, Romance",8.1,90,28513,Charles Chaplin,
+316,Sunrise,1927,94,"Drama, Romance",8.1,,46342,F.W. Murnau,540000
+317,The General,1926,67,"Action, Adventure, Comedy",8.1,,79467,"Directors: Clyde Bruckman, Buster Keaton",1030000
+318,The Cabinet of Dr. Caligari,1920,67,"Fantasy, Horror, Mystery",8.1,,56194,Robert Wiene,
+319,Shoplifters,2018,121,"Crime, Drama",8.0,93,58260,Hirokazu Koreeda,3310000
+320,Badhaai Ho,2018,124,"Comedy, Drama",8.0,,26779,Amit Ravindernath Sharma,
+321,Marriage Story,2019,137,"Comedy, Drama, Romance",8.0,94,232900,Noah Baumbach,2000000
+322,Togo,2019,113,"Adventure, Biography, Drama",8.0,69,32633,Ericson Core,
+323,Airlift,2016,130,"Drama, History",8.0,,52177,Raja Menon,
+324,Bajrangi Bhaijaan,2015,163,"Action, Adventure, Comedy",8.0,,70525,Kabir Khan,8180000
+325,Baby (I),2015,159,"Action, Thriller",8.0,,52028,Neeraj Pandey,
+326,La La Land,2016,128,"Comedy, Drama, Music",8.0,94,492411,Damien Chazelle,151100000
+327,Lion,2016,118,"Biography, Drama",8.0,69,208735,Garth Davis,51740000
+328,The Martian,2015,144,"Adventure, Drama, Sci-Fi",8.0,80,746037,Ridley Scott,228430000
+329,Zootopia,2016,108,"Animation, Adventure, Comedy",8.0,78,424584,"Directors: Byron Howard, Rich Moore, Jared Bush",341270000
+330,The Tale of The Princess Kaguya,2013,137,"Animation, Adventure, Drama",8.0,89,37070,Isao Takahata,1510000
+331,Wonder (I),2017,113,"Drama, Family",8.0,66,136402,Stephen Chbosky,132419999
+332,Special 26,2013,144,"Crime, Drama, Thriller",8.0,,50034,Neeraj Pandey,1080000
+333,Short Term 12,2013,96,Drama,8.0,82,80321,Destin Daniel Cretton,1010000
+334,The Raid 2,2014,150,"Action, Crime, Thriller",8.0,71,112723,Gareth Evans,2630000
+335,The Imitation Game,2014,114,"Biography, Drama, Thriller",8.0,73,672577,Morten Tyldum,91130000
+336,Guardians of the Galaxy,2014,121,"Action, Adventure, Comedy",8.0,76,1028841,James Gunn,333180000
+337,Blade Runner 2049,2017,164,"Action, Drama, Mystery",8.0,81,447374,Denis Villeneuve,92050000
+338,Her,2013,126,"Drama, Romance, Sci-Fi",8.0,90,528591,Spike Jonze,25570000
+339,Bohemian Rhapsody,2018,134,"Biography, Drama, Music",8.0,,437959,Bryan Singer,216430000
+340,The Revenant,2015,156,"Action, Adventure, Drama",8.0,76,690094,Alejandro G. Iñárritu,183640000
+341,The Perks of Being a Wallflower,2012,103,"Drama, Romance",8.0,67,454585,Stephen Chbosky,17740000
+342,Elite Squad 2: The Enemy Within,2010,115,"Action, Crime, Drama",8.0,71,78484,José Padilha,100000
+343,The King's Speech,2010,118,"Biography, Drama, History",8.0,88,631099,Tom Hooper,138800000
+344,The Help,2011,146,Drama,8.0,62,421900,Tate Taylor,169710000
+345,Deadpool,2016,108,"Action, Adventure, Comedy",8.0,65,887463,Tim Miller,363070000
+346,Darbareye Elly,2009,119,"Drama, Mystery, Thriller",8.0,87,44293,Asghar Farhadi,110000
+347,Dev.D,2009,144,"Drama, Romance",8.0,,28371,Anurag Kashyap,10000
+348,Ip Man,2008,106,"Action, Biography, Drama",8.0,,209063,Wilson Yip,
+349,My Name Is Khan,2010,165,Drama,8.0,,97146,Karan Johar,4019999
+350,The Breath,2009,128,"Action, Drama, Thriller",8.0,,31368,Levent Semerci,
+351,Slumdog Millionaire,2008,120,"Drama, Romance",8.0,84,789474,"Directors: Danny Boyle, Loveleen Tandan",141320000
+352,Black Swan,2010,108,"Drama, Thriller",8.0,79,689512,Darren Aronofsky,106950000
+353,The Avengers,2012,143,"Action, Adventure, Sci-Fi",8.0,69,1246498,Joss Whedon,623280000
+354,Persepolis,2007,96,"Animation, Biography, Drama",8.0,90,87487,"Directors: Vincent Paronnaud, Marjane Satrapi",4450000
+355,Dallas Buyers Club,2013,117,"Biography, Drama",8.0,80,432916,Jean-Marc Vallée,27300000
+356,The Pursuit of Happyness,2006,117,"Biography, Drama",8.0,64,440206,Gabriele Muccino,163570000
+357,Blood Diamond,2006,143,"Adventure, Drama, Thriller",8.0,64,492148,Edward Zwick,57370000
+358,The Bourne Ultimatum,2007,115,"Action, Mystery, Thriller",8.0,85,599314,Paul Greengrass,227470000
+359,3-Iron,2004,88,"Crime, Drama, Romance",8.0,72,49242,Ki-duk Kim,240000
+360,Sin City,2005,124,"Crime, Thriller",8.0,74,734727,"Directors: Frank Miller, Quentin Tarantino, Robert Rodriguez",74100000
+361,The Diving Bell and the Butterfly,2007,112,"Biography, Drama",8.0,92,102384,"Directors: Julian Schnabel, Laura Obiols",5990000
+362,G.O.R.A.,2004,127,"Adventure, Comedy, Sci-Fi",8.0,,55570,Ömer Faruk Sorak,
+363,Ratatouille,2007,111,"Animation, Adventure, Comedy",8.0,96,628947,"Directors: Brad Bird, Jan Pinkava",206450000
+364,Casino Royale,2006,144,"Action, Adventure, Thriller",8.0,80,573813,Martin Campbell,167450000
+365,Kill Bill: Vol. 2,2004,137,"Action, Crime, Thriller",8.0,83,672810,Quentin Tarantino,66209999
+366,The Return,2003,110,Drama,8.0,82,41661,Andrey Zvyagintsev,500000
+367,"Spring, Summer, Fall, Winter... and Spring",2003,103,"Drama, Romance",8.0,85,76069,Ki-duk Kim,2380000
+368,The Sea Inside (I),2004,126,"Biography, Drama",8.0,74,76659,Alejandro Amenábar,2089999
+369,Cinderella Man,2005,144,"Biography, Drama, History",8.0,69,174120,Ron Howard,61650000
+370,Kal ho naa ho,2003,186,"Comedy, Drama, Romance",8.0,,62395,Nikkhil Advani,1790000
+371,Infernal Affairs,2002,101,"Action, Crime, Drama",8.0,75,116829,"Directors: Andrew Lau, Alan Mak",170000
+372,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,"Action, Adventure, Fantasy",8.0,63,1004943,Gore Verbinski,305410000
+373,Big Fish,2003,125,"Adventure, Drama, Fantasy",8.0,,410478,Tim Burton,66260000
+374,The Incredibles,2004,115,"Animation, Action, Adventure",8.0,90,646521,Brad Bird,261440000
+375,My Sassy Girl,2001,137,"Comedy, Drama, Romance",8.0,,44903,Jae-young Kwak,
+376,Dogville,2003,178,"Crime, Drama",8.0,,135832,Lars von Trier,1530000
+377,Vizontele,2001,110,"Comedy, Drama",8.0,,32589,"Directors: Yilmaz Erdogan, Ömer Faruk Sorak",
+378,Donnie Darko,2001,113,"Drama, Mystery, Sci-Fi",8.0,88,731386,Richard Kelly,1480000
+379,"Monsters, Inc.",2001,92,"Animation, Adventure, Comedy",8.0,79,800423,"Directors: Pete Docter, David Silverman, Lee Unkrich",289920000
+380,Magnolia,1999,188,Drama,8.0,77,286021,Paul Thomas Anderson,22460000
+381,Dancer in the Dark,2000,140,"Crime, Drama, Musical",8.0,61,100634,Lars von Trier,4179999
+382,Mulholland Drive,2001,147,"Drama, Mystery, Thriller",8.0,85,315529,David Lynch,7220000
+383,The Straight Story,1999,112,"Biography, Drama",8.0,86,80521,David Lynch,6200000
+384,Perfect Blue,1997,81,"Animation, Crime, Mystery",8.0,,55329,Satoshi Kon,780000
+385,The Celebration,1998,105,Drama,8.0,82,76840,Thomas Vinterberg,1650000
+386,Central Station,1998,110,Drama,8.0,80,35717,Walter Salles,5600000
+387,The Iron Giant,1999,86,"Animation, Action, Adventure",8.0,85,169363,Brad Bird,23160000
+388,Knockin' on Heaven's Door,1997,87,"Action, Crime, Comedy",8.0,,27227,Thomas Jahn,0
+389,Sling Blade,1996,135,Drama,8.0,84,86021,Billy Bob Thornton,24480000
+390,Secrets & Lies,1996,136,"Comedy, Drama",8.0,91,36777,Mike Leigh,13420000
+391,12 Monkeys,1995,129,"Mystery, Sci-Fi, Thriller",8.0,74,571158,Terry Gilliam,57140000
+392,Ghost in the Shell,1995,83,"Animation, Action, Crime",8.0,76,126538,Mamoru Oshii,520000
+393,The Nightmare Before Christmas,1993,76,"Animation, Family, Fantasy",8.0,82,288364,Henry Selick,75080000
+394,Groundhog Day,1993,101,"Comedy, Fantasy, Romance",8.0,72,571642,Harold Ramis,70910000
+395,"Blood In, Blood Out",1993,180,"Crime, Drama",8.0,,28464,Taylor Hackford,4500000
+396,Scent of a Woman,1992,156,Drama,8.0,,256515,Martin Brest,63900000
+397,Aladdin,1992,90,"Animation, Adventure, Comedy",8.0,86,367489,"Directors: Ron Clements, John Musker",217350000
+398,JFK,1991,189,"Drama, History, Thriller",8.0,72,139634,Oliver Stone,70410000
+399,Nights of Cabiria,1957,110,Drama,8.1,,42160,Federico Fellini,750000
+400,Throne of Blood,1957,110,"Drama, History",8.1,,45579,Akira Kurosawa,
+401,The Bridge on the River Kwai,1957,161,"Adventure, Drama, War",8.1,87,200215,David Lean,44910000
+402,On the Waterfront,1954,108,"Crime, Drama, Thriller",8.1,91,139663,Elia Kazan,9600000
+403,The Wages of Fear,1953,131,"Adventure, Drama, Thriller",8.1,85,53438,Henri-Georges Clouzot,
+404,Ace in the Hole,1951,111,"Drama, Film-Noir",8.1,72,30824,Billy Wilder,3970000
+405,White Heat,1949,114,"Action, Crime, Drama",8.1,,29209,Raoul Walsh,
+406,The Third Man,1949,93,"Film-Noir, Mystery, Thriller",8.1,97,156370,Carol Reed,450000
+407,The Red Shoes,1948,135,"Drama, Music, Romance",8.1,,30229,"Directors: Michael Powell, Emeric Pressburger",10900000
+408,The Shop Around the Corner,1940,99,"Comedy, Drama, Romance",8.1,96,27039,Ernst Lubitsch,200000
+409,Rebecca,1940,130,"Drama, Mystery, Romance",8.1,86,120476,Alfred Hitchcock,4360000
+410,Mr. Smith Goes to Washington,1939,129,"Comedy, Drama",8.1,73,105195,Frank Capra,9600000
+411,Gone with the Wind,1939,238,"Drama, History, Romance",8.1,97,285661,"Directors: Victor Fleming, George Cukor, Sam Wood",198680000
+412,La Grande Illusion,1937,113,"Drama, War",8.1,,33364,Jean Renoir,170000
+413,It Happened One Night,1934,105,"Comedy, Romance",8.1,87,92103,Frank Capra,4360000
+414,The Passion of Joan of Arc,1928,114,"Biography, Drama, History",8.1,,46359,Carl Theodor Dreyer,20000
+415,The Circus,1928,72,"Comedy, Romance",8.1,90,28513,Charles Chaplin,
+416,Sunrise,1927,94,"Drama, Romance",8.1,,46342,F.W. Murnau,540000
+417,The General,1926,67,"Action, Adventure, Comedy",8.1,,79467,"Directors: Clyde Bruckman, Buster Keaton",1030000
+418,The Cabinet of Dr. Caligari,1920,67,"Fantasy, Horror, Mystery",8.1,,56194,Robert Wiene,
+419,Shoplifters,2018,121,"Crime, Drama",8.0,93,58260,Hirokazu Koreeda,3310000
+420,Badhaai Ho,2018,124,"Comedy, Drama",8.0,,26779,Amit Ravindernath Sharma,
+421,Marriage Story,2019,137,"Comedy, Drama, Romance",8.0,94,232900,Noah Baumbach,2000000
+422,Togo,2019,113,"Adventure, Biography, Drama",8.0,69,32633,Ericson Core,
+423,Airlift,2016,130,"Drama, History",8.0,,52177,Raja Menon,
+424,Bajrangi Bhaijaan,2015,163,"Action, Adventure, Comedy",8.0,,70525,Kabir Khan,8180000
+425,Baby (I),2015,159,"Action, Thriller",8.0,,52028,Neeraj Pandey,
+426,La La Land,2016,128,"Comedy, Drama, Music",8.0,94,492411,Damien Chazelle,151100000
+427,Lion,2016,118,"Biography, Drama",8.0,69,208735,Garth Davis,51740000
+428,The Martian,2015,144,"Adventure, Drama, Sci-Fi",8.0,80,746037,Ridley Scott,228430000
+429,Zootopia,2016,108,"Animation, Adventure, Comedy",8.0,78,424584,"Directors: Byron Howard, Rich Moore, Jared Bush",341270000
+430,The Tale of The Princess Kaguya,2013,137,"Animation, Adventure, Drama",8.0,89,37070,Isao Takahata,1510000
+431,Wonder (I),2017,113,"Drama, Family",8.0,66,136402,Stephen Chbosky,132419999
+432,Special 26,2013,144,"Crime, Drama, Thriller",8.0,,50034,Neeraj Pandey,1080000
+433,Short Term 12,2013,96,Drama,8.0,82,80321,Destin Daniel Cretton,1010000
+434,The Raid 2,2014,150,"Action, Crime, Thriller",8.0,71,112723,Gareth Evans,2630000
+435,The Imitation Game,2014,114,"Biography, Drama, Thriller",8.0,73,672577,Morten Tyldum,91130000
+436,Guardians of the Galaxy,2014,121,"Action, Adventure, Comedy",8.0,76,1028841,James Gunn,333180000
+437,Blade Runner 2049,2017,164,"Action, Drama, Mystery",8.0,81,447374,Denis Villeneuve,92050000
+438,Her,2013,126,"Drama, Romance, Sci-Fi",8.0,90,528591,Spike Jonze,25570000
+439,Bohemian Rhapsody,2018,134,"Biography, Drama, Music",8.0,,437959,Bryan Singer,216430000
+440,The Revenant,2015,156,"Action, Adventure, Drama",8.0,76,690094,Alejandro G. Iñárritu,183640000
+441,The Perks of Being a Wallflower,2012,103,"Drama, Romance",8.0,67,454585,Stephen Chbosky,17740000
+442,Elite Squad 2: The Enemy Within,2010,115,"Action, Crime, Drama",8.0,71,78484,José Padilha,100000
+443,The King's Speech,2010,118,"Biography, Drama, History",8.0,88,631099,Tom Hooper,138800000
+444,The Help,2011,146,Drama,8.0,62,421900,Tate Taylor,169710000
+445,Deadpool,2016,108,"Action, Adventure, Comedy",8.0,65,887463,Tim Miller,363070000
+446,Darbareye Elly,2009,119,"Drama, Mystery, Thriller",8.0,87,44293,Asghar Farhadi,110000
+447,Dev.D,2009,144,"Drama, Romance",8.0,,28371,Anurag Kashyap,10000
+448,Ip Man,2008,106,"Action, Biography, Drama",8.0,,209063,Wilson Yip,
+449,My Name Is Khan,2010,165,Drama,8.0,,97146,Karan Johar,4019999
+450,The Breath,2009,128,"Action, Drama, Thriller",8.0,,31368,Levent Semerci,
+451,Slumdog Millionaire,2008,120,"Drama, Romance",8.0,84,789474,"Directors: Danny Boyle, Loveleen Tandan",141320000
+452,Black Swan,2010,108,"Drama, Thriller",8.0,79,689512,Darren Aronofsky,106950000
+453,The Avengers,2012,143,"Action, Adventure, Sci-Fi",8.0,69,1246498,Joss Whedon,623280000
+454,Persepolis,2007,96,"Animation, Biography, Drama",8.0,90,87487,"Directors: Vincent Paronnaud, Marjane Satrapi",4450000
+455,Dallas Buyers Club,2013,117,"Biography, Drama",8.0,80,432916,Jean-Marc Vallée,27300000
+456,The Pursuit of Happyness,2006,117,"Biography, Drama",8.0,64,440206,Gabriele Muccino,163570000
+457,Blood Diamond,2006,143,"Adventure, Drama, Thriller",8.0,64,492148,Edward Zwick,57370000
+458,The Bourne Ultimatum,2007,115,"Action, Mystery, Thriller",8.0,85,599314,Paul Greengrass,227470000
+459,3-Iron,2004,88,"Crime, Drama, Romance",8.0,72,49242,Ki-duk Kim,240000
+460,Sin City,2005,124,"Crime, Thriller",8.0,74,734727,"Directors: Frank Miller, Quentin Tarantino, Robert Rodriguez",74100000
+461,The Diving Bell and the Butterfly,2007,112,"Biography, Drama",8.0,92,102384,"Directors: Julian Schnabel, Laura Obiols",5990000
+462,G.O.R.A.,2004,127,"Adventure, Comedy, Sci-Fi",8.0,,55570,Ömer Faruk Sorak,
+463,Ratatouille,2007,111,"Animation, Adventure, Comedy",8.0,96,628947,"Directors: Brad Bird, Jan Pinkava",206450000
+464,Casino Royale,2006,144,"Action, Adventure, Thriller",8.0,80,573813,Martin Campbell,167450000
+465,Kill Bill: Vol. 2,2004,137,"Action, Crime, Thriller",8.0,83,672810,Quentin Tarantino,66209999
+466,The Return,2003,110,Drama,8.0,82,41661,Andrey Zvyagintsev,500000
+467,"Spring, Summer, Fall, Winter... and Spring",2003,103,"Drama, Romance",8.0,85,76069,Ki-duk Kim,2380000
+468,The Sea Inside (I),2004,126,"Biography, Drama",8.0,74,76659,Alejandro Amenábar,2089999
+469,Cinderella Man,2005,144,"Biography, Drama, History",8.0,69,174120,Ron Howard,61650000
+470,Kal ho naa ho,2003,186,"Comedy, Drama, Romance",8.0,,62395,Nikkhil Advani,1790000
+471,Infernal Affairs,2002,101,"Action, Crime, Drama",8.0,75,116829,"Directors: Andrew Lau, Alan Mak",170000
+472,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,"Action, Adventure, Fantasy",8.0,63,1004943,Gore Verbinski,305410000
+473,Big Fish,2003,125,"Adventure, Drama, Fantasy",8.0,,410478,Tim Burton,66260000
+474,The Incredibles,2004,115,"Animation, Action, Adventure",8.0,90,646521,Brad Bird,261440000
+475,My Sassy Girl,2001,137,"Comedy, Drama, Romance",8.0,,44903,Jae-young Kwak,
+476,Dogville,2003,178,"Crime, Drama",8.0,,135832,Lars von Trier,1530000
+477,Vizontele,2001,110,"Comedy, Drama",8.0,,32589,"Directors: Yilmaz Erdogan, Ömer Faruk Sorak",
+478,Donnie Darko,2001,113,"Drama, Mystery, Sci-Fi",8.0,88,731386,Richard Kelly,1480000
+479,"Monsters, Inc.",2001,92,"Animation, Adventure, Comedy",8.0,79,800423,"Directors: Pete Docter, David Silverman, Lee Unkrich",289920000
+480,Magnolia,1999,188,Drama,8.0,77,286021,Paul Thomas Anderson,22460000
+481,Dancer in the Dark,2000,140,"Crime, Drama, Musical",8.0,61,100634,Lars von Trier,4179999
+482,Mulholland Drive,2001,147,"Drama, Mystery, Thriller",8.0,85,315529,David Lynch,7220000
+483,The Straight Story,1999,112,"Biography, Drama",8.0,86,80521,David Lynch,6200000
+484,Perfect Blue,1997,81,"Animation, Crime, Mystery",8.0,,55329,Satoshi Kon,780000
+485,The Celebration,1998,105,Drama,8.0,82,76840,Thomas Vinterberg,1650000
+486,Central Station,1998,110,Drama,8.0,80,35717,Walter Salles,5600000
+487,The Iron Giant,1999,86,"Animation, Action, Adventure",8.0,85,169363,Brad Bird,23160000
+488,Knockin' on Heaven's Door,1997,87,"Action, Crime, Comedy",8.0,,27227,Thomas Jahn,0
+489,Sling Blade,1996,135,Drama,8.0,84,86021,Billy Bob Thornton,24480000
+490,Secrets & Lies,1996,136,"Comedy, Drama",8.0,91,36777,Mike Leigh,13420000
+491,12 Monkeys,1995,129,"Mystery, Sci-Fi, Thriller",8.0,74,571158,Terry Gilliam,57140000
+492,Ghost in the Shell,1995,83,"Animation, Action, Crime",8.0,76,126538,Mamoru Oshii,520000
+493,The Nightmare Before Christmas,1993,76,"Animation, Family, Fantasy",8.0,82,288364,Henry Selick,75080000
+494,Groundhog Day,1993,101,"Comedy, Fantasy, Romance",8.0,72,571642,Harold Ramis,70910000
+495,"Blood In, Blood Out",1993,180,"Crime, Drama",8.0,,28464,Taylor Hackford,4500000
+496,Scent of a Woman,1992,156,Drama,8.0,,256515,Martin Brest,63900000
+497,Aladdin,1992,90,"Animation, Adventure, Comedy",8.0,86,367489,"Directors: Ron Clements, John Musker",217350000
+498,JFK,1991,189,"Drama, History, Thriller",8.0,72,139634,Oliver Stone,70410000
+499,Nights of Cabiria,1957,110,Drama,8.1,,42160,Federico Fellini,750000
+500,Throne of Blood,1957,110,"Drama, History",8.1,,45579,Akira Kurosawa,
+501,The Bridge on the River Kwai,1957,161,"Adventure, Drama, War",8.1,87,200215,David Lean,44910000
+502,On the Waterfront,1954,108,"Crime, Drama, Thriller",8.1,91,139663,Elia Kazan,9600000
+503,The Wages of Fear,1953,131,"Adventure, Drama, Thriller",8.1,85,53438,Henri-Georges Clouzot,
+504,Ace in the Hole,1951,111,"Drama, Film-Noir",8.1,72,30824,Billy Wilder,3970000
+505,White Heat,1949,114,"Action, Crime, Drama",8.1,,29209,Raoul Walsh,
+506,The Third Man,1949,93,"Film-Noir, Mystery, Thriller",8.1,97,156370,Carol Reed,450000
+507,The Red Shoes,1948,135,"Drama, Music, Romance",8.1,,30229,"Directors: Michael Powell, Emeric Pressburger",10900000
+508,The Shop Around the Corner,1940,99,"Comedy, Drama, Romance",8.1,96,27039,Ernst Lubitsch,200000
+509,Rebecca,1940,130,"Drama, Mystery, Romance",8.1,86,120476,Alfred Hitchcock,4360000
+510,Mr. Smith Goes to Washington,1939,129,"Comedy, Drama",8.1,73,105195,Frank Capra,9600000
+511,Gone with the Wind,1939,238,"Drama, History, Romance",8.1,97,285661,"Directors: Victor Fleming, George Cukor, Sam Wood",198680000
+512,La Grande Illusion,1937,113,"Drama, War",8.1,,33364,Jean Renoir,170000
+513,It Happened One Night,1934,105,"Comedy, Romance",8.1,87,92103,Frank Capra,4360000
+514,The Passion of Joan of Arc,1928,114,"Biography, Drama, History",8.1,,46359,Carl Theodor Dreyer,20000
+515,The Circus,1928,72,"Comedy, Romance",8.1,90,28513,Charles Chaplin,
+516,Sunrise,1927,94,"Drama, Romance",8.1,,46342,F.W. Murnau,540000
+517,The General,1926,67,"Action, Adventure, Comedy",8.1,,79467,"Directors: Clyde Bruckman, Buster Keaton",1030000
+518,The Cabinet of Dr. Caligari,1920,67,"Fantasy, Horror, Mystery",8.1,,56194,Robert Wiene,
+519,Shoplifters,2018,121,"Crime, Drama",8.0,93,58260,Hirokazu Koreeda,3310000
+520,Badhaai Ho,2018,124,"Comedy, Drama",8.0,,26779,Amit Ravindernath Sharma,
+521,Marriage Story,2019,137,"Comedy, Drama, Romance",8.0,94,232900,Noah Baumbach,2000000
+522,Togo,2019,113,"Adventure, Biography, Drama",8.0,69,32633,Ericson Core,
+523,Airlift,2016,130,"Drama, History",8.0,,52177,Raja Menon,
+524,Bajrangi Bhaijaan,2015,163,"Action, Adventure, Comedy",8.0,,70525,Kabir Khan,8180000
+525,Baby (I),2015,159,"Action, Thriller",8.0,,52028,Neeraj Pandey,
+526,La La Land,2016,128,"Comedy, Drama, Music",8.0,94,492411,Damien Chazelle,151100000
+527,Lion,2016,118,"Biography, Drama",8.0,69,208735,Garth Davis,51740000
+528,The Martian,2015,144,"Adventure, Drama, Sci-Fi",8.0,80,746037,Ridley Scott,228430000
+529,Zootopia,2016,108,"Animation, Adventure, Comedy",8.0,78,424584,"Directors: Byron Howard, Rich Moore, Jared Bush",341270000
+530,The Tale of The Princess Kaguya,2013,137,"Animation, Adventure, Drama",8.0,89,37070,Isao Takahata,1510000
+531,Wonder (I),2017,113,"Drama, Family",8.0,66,136402,Stephen Chbosky,132419999
+532,Special 26,2013,144,"Crime, Drama, Thriller",8.0,,50034,Neeraj Pandey,1080000
+533,Short Term 12,2013,96,Drama,8.0,82,80321,Destin Daniel Cretton,1010000
+534,The Raid 2,2014,150,"Action, Crime, Thriller",8.0,71,112723,Gareth Evans,2630000
+535,The Imitation Game,2014,114,"Biography, Drama, Thriller",8.0,73,672577,Morten Tyldum,91130000
+536,Guardians of the Galaxy,2014,121,"Action, Adventure, Comedy",8.0,76,1028841,James Gunn,333180000
+537,Blade Runner 2049,2017,164,"Action, Drama, Mystery",8.0,81,447374,Denis Villeneuve,92050000
+538,Her,2013,126,"Drama, Romance, Sci-Fi",8.0,90,528591,Spike Jonze,25570000
+539,Bohemian Rhapsody,2018,134,"Biography, Drama, Music",8.0,,437959,Bryan Singer,216430000
+540,The Revenant,2015,156,"Action, Adventure, Drama",8.0,76,690094,Alejandro G. Iñárritu,183640000
+541,The Perks of Being a Wallflower,2012,103,"Drama, Romance",8.0,67,454585,Stephen Chbosky,17740000
+542,Elite Squad 2: The Enemy Within,2010,115,"Action, Crime, Drama",8.0,71,78484,José Padilha,100000
+543,The King's Speech,2010,118,"Biography, Drama, History",8.0,88,631099,Tom Hooper,138800000
+544,The Help,2011,146,Drama,8.0,62,421900,Tate Taylor,169710000
+545,Deadpool,2016,108,"Action, Adventure, Comedy",8.0,65,887463,Tim Miller,363070000
+546,Darbareye Elly,2009,119,"Drama, Mystery, Thriller",8.0,87,44293,Asghar Farhadi,110000
+547,Dev.D,2009,144,"Drama, Romance",8.0,,28371,Anurag Kashyap,10000
+548,Ip Man,2008,106,"Action, Biography, Drama",8.0,,209063,Wilson Yip,
+549,My Name Is Khan,2010,165,Drama,8.0,,97146,Karan Johar,4019999
+550,The Breath,2009,128,"Action, Drama, Thriller",8.0,,31368,Levent Semerci,
+551,Slumdog Millionaire,2008,120,"Drama, Romance",8.0,84,789474,"Directors: Danny Boyle, Loveleen Tandan",141320000
+552,Black Swan,2010,108,"Drama, Thriller",8.0,79,689512,Darren Aronofsky,106950000
+553,The Avengers,2012,143,"Action, Adventure, Sci-Fi",8.0,69,1246498,Joss Whedon,623280000
+554,Persepolis,2007,96,"Animation, Biography, Drama",8.0,90,87487,"Directors: Vincent Paronnaud, Marjane Satrapi",4450000
+555,Dallas Buyers Club,2013,117,"Biography, Drama",8.0,80,432916,Jean-Marc Vallée,27300000
+556,The Pursuit of Happyness,2006,117,"Biography, Drama",8.0,64,440206,Gabriele Muccino,163570000
+557,Blood Diamond,2006,143,"Adventure, Drama, Thriller",8.0,64,492148,Edward Zwick,57370000
+558,The Bourne Ultimatum,2007,115,"Action, Mystery, Thriller",8.0,85,599314,Paul Greengrass,227470000
+559,3-Iron,2004,88,"Crime, Drama, Romance",8.0,72,49242,Ki-duk Kim,240000
+560,Sin City,2005,124,"Crime, Thriller",8.0,74,734727,"Directors: Frank Miller, Quentin Tarantino, Robert Rodriguez",74100000
+561,The Diving Bell and the Butterfly,2007,112,"Biography, Drama",8.0,92,102384,"Directors: Julian Schnabel, Laura Obiols",5990000
+562,G.O.R.A.,2004,127,"Adventure, Comedy, Sci-Fi",8.0,,55570,Ömer Faruk Sorak,
+563,Ratatouille,2007,111,"Animation, Adventure, Comedy",8.0,96,628947,"Directors: Brad Bird, Jan Pinkava",206450000
+564,Casino Royale,2006,144,"Action, Adventure, Thriller",8.0,80,573813,Martin Campbell,167450000
+565,Kill Bill: Vol. 2,2004,137,"Action, Crime, Thriller",8.0,83,672810,Quentin Tarantino,66209999
+566,The Return,2003,110,Drama,8.0,82,41661,Andrey Zvyagintsev,500000
+567,"Spring, Summer, Fall, Winter... and Spring",2003,103,"Drama, Romance",8.0,85,76069,Ki-duk Kim,2380000
+568,The Sea Inside (I),2004,126,"Biography, Drama",8.0,74,76659,Alejandro Amenábar,2089999
+569,Cinderella Man,2005,144,"Biography, Drama, History",8.0,69,174120,Ron Howard,61650000
+570,Kal ho naa ho,2003,186,"Comedy, Drama, Romance",8.0,,62395,Nikkhil Advani,1790000
+571,Infernal Affairs,2002,101,"Action, Crime, Drama",8.0,75,116829,"Directors: Andrew Lau, Alan Mak",170000
+572,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,"Action, Adventure, Fantasy",8.0,63,1004943,Gore Verbinski,305410000
+573,Big Fish,2003,125,"Adventure, Drama, Fantasy",8.0,,410478,Tim Burton,66260000
+574,The Incredibles,2004,115,"Animation, Action, Adventure",8.0,90,646521,Brad Bird,261440000
+575,My Sassy Girl,2001,137,"Comedy, Drama, Romance",8.0,,44903,Jae-young Kwak,
+576,Dogville,2003,178,"Crime, Drama",8.0,,135832,Lars von Trier,1530000
+577,Vizontele,2001,110,"Comedy, Drama",8.0,,32589,"Directors: Yilmaz Erdogan, Ömer Faruk Sorak",
+578,Donnie Darko,2001,113,"Drama, Mystery, Sci-Fi",8.0,88,731386,Richard Kelly,1480000
+579,"Monsters, Inc.",2001,92,"Animation, Adventure, Comedy",8.0,79,800423,"Directors: Pete Docter, David Silverman, Lee Unkrich",289920000
+580,Magnolia,1999,188,Drama,8.0,77,286021,Paul Thomas Anderson,22460000
+581,Dancer in the Dark,2000,140,"Crime, Drama, Musical",8.0,61,100634,Lars von Trier,4179999
+582,Mulholland Drive,2001,147,"Drama, Mystery, Thriller",8.0,85,315529,David Lynch,7220000
+583,The Straight Story,1999,112,"Biography, Drama",8.0,86,80521,David Lynch,6200000
+584,Perfect Blue,1997,81,"Animation, Crime, Mystery",8.0,,55329,Satoshi Kon,780000
+585,The Celebration,1998,105,Drama,8.0,82,76840,Thomas Vinterberg,1650000
+586,Central Station,1998,110,Drama,8.0,80,35717,Walter Salles,5600000
+587,The Iron Giant,1999,86,"Animation, Action, Adventure",8.0,85,169363,Brad Bird,23160000
+588,Knockin' on Heaven's Door,1997,87,"Action, Crime, Comedy",8.0,,27227,Thomas Jahn,0
+589,Sling Blade,1996,135,Drama,8.0,84,86021,Billy Bob Thornton,24480000
+590,Secrets & Lies,1996,136,"Comedy, Drama",8.0,91,36777,Mike Leigh,13420000
+591,12 Monkeys,1995,129,"Mystery, Sci-Fi, Thriller",8.0,74,571158,Terry Gilliam,57140000
+592,Ghost in the Shell,1995,83,"Animation, Action, Crime",8.0,76,126538,Mamoru Oshii,520000
+593,The Nightmare Before Christmas,1993,76,"Animation, Family, Fantasy",8.0,82,288364,Henry Selick,75080000
+594,Groundhog Day,1993,101,"Comedy, Fantasy, Romance",8.0,72,571642,Harold Ramis,70910000
+595,"Blood In, Blood Out",1993,180,"Crime, Drama",8.0,,28464,Taylor Hackford,4500000
+596,Scent of a Woman,1992,156,Drama,8.0,,256515,Martin Brest,63900000
+597,Aladdin,1992,90,"Animation, Adventure, Comedy",8.0,86,367489,"Directors: Ron Clements, John Musker",217350000
+598,JFK,1991,189,"Drama, History, Thriller",8.0,72,139634,Oliver Stone,70410000
+599,Nights of Cabiria,1957,110,Drama,8.1,,42160,Federico Fellini,750000
+600,Throne of Blood,1957,110,"Drama, History",8.1,,45579,Akira Kurosawa,
+601,The Bridge on the River Kwai,1957,161,"Adventure, Drama, War",8.1,87,200215,David Lean,44910000
+602,On the Waterfront,1954,108,"Crime, Drama, Thriller",8.1,91,139663,Elia Kazan,9600000
+603,The Wages of Fear,1953,131,"Adventure, Drama, Thriller",8.1,85,53438,Henri-Georges Clouzot,
+604,Ace in the Hole,1951,111,"Drama, Film-Noir",8.1,72,30824,Billy Wilder,3970000
+605,White Heat,1949,114,"Action, Crime, Drama",8.1,,29209,Raoul Walsh,
+606,The Third Man,1949,93,"Film-Noir, Mystery, Thriller",8.1,97,156370,Carol Reed,450000
+607,The Red Shoes,1948,135,"Drama, Music, Romance",8.1,,30229,"Directors: Michael Powell, Emeric Pressburger",10900000
+608,The Shop Around the Corner,1940,99,"Comedy, Drama, Romance",8.1,96,27039,Ernst Lubitsch,200000
+609,Rebecca,1940,130,"Drama, Mystery, Romance",8.1,86,120476,Alfred Hitchcock,4360000
+610,Mr. Smith Goes to Washington,1939,129,"Comedy, Drama",8.1,73,105195,Frank Capra,9600000
+611,Gone with the Wind,1939,238,"Drama, History, Romance",8.1,97,285661,"Directors: Victor Fleming, George Cukor, Sam Wood",198680000
+612,La Grande Illusion,1937,113,"Drama, War",8.1,,33364,Jean Renoir,170000
+613,It Happened One Night,1934,105,"Comedy, Romance",8.1,87,92103,Frank Capra,4360000
+614,The Passion of Joan of Arc,1928,114,"Biography, Drama, History",8.1,,46359,Carl Theodor Dreyer,20000
+615,The Circus,1928,72,"Comedy, Romance",8.1,90,28513,Charles Chaplin,
+616,Sunrise,1927,94,"Drama, Romance",8.1,,46342,F.W. Murnau,540000
+617,The General,1926,67,"Action, Adventure, Comedy",8.1,,79467,"Directors: Clyde Bruckman, Buster Keaton",1030000
+618,The Cabinet of Dr. Caligari,1920,67,"Fantasy, Horror, Mystery",8.1,,56194,Robert Wiene,
+619,Shoplifters,2018,121,"Crime, Drama",8.0,93,58260,Hirokazu Koreeda,3310000
+620,Badhaai Ho,2018,124,"Comedy, Drama",8.0,,26779,Amit Ravindernath Sharma,
+621,Marriage Story,2019,137,"Comedy, Drama, Romance",8.0,94,232900,Noah Baumbach,2000000
+622,Togo,2019,113,"Adventure, Biography, Drama",8.0,69,32633,Ericson Core,
+623,Airlift,2016,130,"Drama, History",8.0,,52177,Raja Menon,
+624,Bajrangi Bhaijaan,2015,163,"Action, Adventure, Comedy",8.0,,70525,Kabir Khan,8180000
+625,Baby (I),2015,159,"Action, Thriller",8.0,,52028,Neeraj Pandey,
+626,La La Land,2016,128,"Comedy, Drama, Music",8.0,94,492411,Damien Chazelle,151100000
+627,Lion,2016,118,"Biography, Drama",8.0,69,208735,Garth Davis,51740000
+628,The Martian,2015,144,"Adventure, Drama, Sci-Fi",8.0,80,746037,Ridley Scott,228430000
+629,Zootopia,2016,108,"Animation, Adventure, Comedy",8.0,78,424584,"Directors: Byron Howard, Rich Moore, Jared Bush",341270000
+630,The Tale of The Princess Kaguya,2013,137,"Animation, Adventure, Drama",8.0,89,37070,Isao Takahata,1510000
+631,Wonder (I),2017,113,"Drama, Family",8.0,66,136402,Stephen Chbosky,132419999
+632,Special 26,2013,144,"Crime, Drama, Thriller",8.0,,50034,Neeraj Pandey,1080000
+633,Short Term 12,2013,96,Drama,8.0,82,80321,Destin Daniel Cretton,1010000
+634,The Raid 2,2014,150,"Action, Crime, Thriller",8.0,71,112723,Gareth Evans,2630000
+635,The Imitation Game,2014,114,"Biography, Drama, Thriller",8.0,73,672577,Morten Tyldum,91130000
+636,Guardians of the Galaxy,2014,121,"Action, Adventure, Comedy",8.0,76,1028841,James Gunn,333180000
+637,Blade Runner 2049,2017,164,"Action, Drama, Mystery",8.0,81,447374,Denis Villeneuve,92050000
+638,Her,2013,126,"Drama, Romance, Sci-Fi",8.0,90,528591,Spike Jonze,25570000
+639,Bohemian Rhapsody,2018,134,"Biography, Drama, Music",8.0,,437959,Bryan Singer,216430000
+640,The Revenant,2015,156,"Action, Adventure, Drama",8.0,76,690094,Alejandro G. Iñárritu,183640000
+641,The Perks of Being a Wallflower,2012,103,"Drama, Romance",8.0,67,454585,Stephen Chbosky,17740000
+642,Elite Squad 2: The Enemy Within,2010,115,"Action, Crime, Drama",8.0,71,78484,José Padilha,100000
+643,The King's Speech,2010,118,"Biography, Drama, History",8.0,88,631099,Tom Hooper,138800000
+644,The Help,2011,146,Drama,8.0,62,421900,Tate Taylor,169710000
+645,Deadpool,2016,108,"Action, Adventure, Comedy",8.0,65,887463,Tim Miller,363070000
+646,Darbareye Elly,2009,119,"Drama, Mystery, Thriller",8.0,87,44293,Asghar Farhadi,110000
+647,Dev.D,2009,144,"Drama, Romance",8.0,,28371,Anurag Kashyap,10000
+648,Ip Man,2008,106,"Action, Biography, Drama",8.0,,209063,Wilson Yip,
+649,My Name Is Khan,2010,165,Drama,8.0,,97146,Karan Johar,4019999
+650,The Breath,2009,128,"Action, Drama, Thriller",8.0,,31368,Levent Semerci,
+651,Slumdog Millionaire,2008,120,"Drama, Romance",8.0,84,789474,"Directors: Danny Boyle, Loveleen Tandan",141320000
+652,Black Swan,2010,108,"Drama, Thriller",8.0,79,689512,Darren Aronofsky,106950000
+653,The Avengers,2012,143,"Action, Adventure, Sci-Fi",8.0,69,1246498,Joss Whedon,623280000
+654,Persepolis,2007,96,"Animation, Biography, Drama",8.0,90,87487,"Directors: Vincent Paronnaud, Marjane Satrapi",4450000
+655,Dallas Buyers Club,2013,117,"Biography, Drama",8.0,80,432916,Jean-Marc Vallée,27300000
+656,The Pursuit of Happyness,2006,117,"Biography, Drama",8.0,64,440206,Gabriele Muccino,163570000
+657,Blood Diamond,2006,143,"Adventure, Drama, Thriller",8.0,64,492148,Edward Zwick,57370000
+658,The Bourne Ultimatum,2007,115,"Action, Mystery, Thriller",8.0,85,599314,Paul Greengrass,227470000
+659,3-Iron,2004,88,"Crime, Drama, Romance",8.0,72,49242,Ki-duk Kim,240000
+660,Sin City,2005,124,"Crime, Thriller",8.0,74,734727,"Directors: Frank Miller, Quentin Tarantino, Robert Rodriguez",74100000
+661,The Diving Bell and the Butterfly,2007,112,"Biography, Drama",8.0,92,102384,"Directors: Julian Schnabel, Laura Obiols",5990000
+662,G.O.R.A.,2004,127,"Adventure, Comedy, Sci-Fi",8.0,,55570,Ömer Faruk Sorak,
+663,Ratatouille,2007,111,"Animation, Adventure, Comedy",8.0,96,628947,"Directors: Brad Bird, Jan Pinkava",206450000
+664,Casino Royale,2006,144,"Action, Adventure, Thriller",8.0,80,573813,Martin Campbell,167450000
+665,Kill Bill: Vol. 2,2004,137,"Action, Crime, Thriller",8.0,83,672810,Quentin Tarantino,66209999
+666,The Return,2003,110,Drama,8.0,82,41661,Andrey Zvyagintsev,500000
+667,"Spring, Summer, Fall, Winter... and Spring",2003,103,"Drama, Romance",8.0,85,76069,Ki-duk Kim,2380000
+668,The Sea Inside (I),2004,126,"Biography, Drama",8.0,74,76659,Alejandro Amenábar,2089999
+669,Cinderella Man,2005,144,"Biography, Drama, History",8.0,69,174120,Ron Howard,61650000
+670,Kal ho naa ho,2003,186,"Comedy, Drama, Romance",8.0,,62395,Nikkhil Advani,1790000
+671,Infernal Affairs,2002,101,"Action, Crime, Drama",8.0,75,116829,"Directors: Andrew Lau, Alan Mak",170000
+672,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,"Action, Adventure, Fantasy",8.0,63,1004943,Gore Verbinski,305410000
+673,Big Fish,2003,125,"Adventure, Drama, Fantasy",8.0,,410478,Tim Burton,66260000
+674,The Incredibles,2004,115,"Animation, Action, Adventure",8.0,90,646521,Brad Bird,261440000
+675,My Sassy Girl,2001,137,"Comedy, Drama, Romance",8.0,,44903,Jae-young Kwak,
+676,Dogville,2003,178,"Crime, Drama",8.0,,135832,Lars von Trier,1530000
+677,Vizontele,2001,110,"Comedy, Drama",8.0,,32589,"Directors: Yilmaz Erdogan, Ömer Faruk Sorak",
+678,Donnie Darko,2001,113,"Drama, Mystery, Sci-Fi",8.0,88,731386,Richard Kelly,1480000
+679,"Monsters, Inc.",2001,92,"Animation, Adventure, Comedy",8.0,79,800423,"Directors: Pete Docter, David Silverman, Lee Unkrich",289920000
+680,Magnolia,1999,188,Drama,8.0,77,286021,Paul Thomas Anderson,22460000
+681,Dancer in the Dark,2000,140,"Crime, Drama, Musical",8.0,61,100634,Lars von Trier,4179999
+682,Mulholland Drive,2001,147,"Drama, Mystery, Thriller",8.0,85,315529,David Lynch,7220000
+683,The Straight Story,1999,112,"Biography, Drama",8.0,86,80521,David Lynch,6200000
+684,Perfect Blue,1997,81,"Animation, Crime, Mystery",8.0,,55329,Satoshi Kon,780000
+685,The Celebration,1998,105,Drama,8.0,82,76840,Thomas Vinterberg,1650000
+686,Central Station,1998,110,Drama,8.0,80,35717,Walter Salles,5600000
+687,The Iron Giant,1999,86,"Animation, Action, Adventure",8.0,85,169363,Brad Bird,23160000
+688,Knockin' on Heaven's Door,1997,87,"Action, Crime, Comedy",8.0,,27227,Thomas Jahn,0
+689,Sling Blade,1996,135,Drama,8.0,84,86021,Billy Bob Thornton,24480000
+690,Secrets & Lies,1996,136,"Comedy, Drama",8.0,91,36777,Mike Leigh,13420000
+691,12 Monkeys,1995,129,"Mystery, Sci-Fi, Thriller",8.0,74,571158,Terry Gilliam,57140000
+692,Ghost in the Shell,1995,83,"Animation, Action, Crime",8.0,76,126538,Mamoru Oshii,520000
+693,The Nightmare Before Christmas,1993,76,"Animation, Family, Fantasy",8.0,82,288364,Henry Selick,75080000
+694,Groundhog Day,1993,101,"Comedy, Fantasy, Romance",8.0,72,571642,Harold Ramis,70910000
+695,"Blood In, Blood Out",1993,180,"Crime, Drama",8.0,,28464,Taylor Hackford,4500000
+696,Scent of a Woman,1992,156,Drama,8.0,,256515,Martin Brest,63900000
+697,Aladdin,1992,90,"Animation, Adventure, Comedy",8.0,86,367489,"Directors: Ron Clements, John Musker",217350000
+698,JFK,1991,189,"Drama, History, Thriller",8.0,72,139634,Oliver Stone,70410000
+699,Nights of Cabiria,1957,110,Drama,8.1,,42160,Federico Fellini,750000
+700,Throne of Blood,1957,110,"Drama, History",8.1,,45579,Akira Kurosawa,
+701,The Bridge on the River Kwai,1957,161,"Adventure, Drama, War",8.1,87,200215,David Lean,44910000
+702,On the Waterfront,1954,108,"Crime, Drama, Thriller",8.1,91,139663,Elia Kazan,9600000
+703,The Wages of Fear,1953,131,"Adventure, Drama, Thriller",8.1,85,53438,Henri-Georges Clouzot,
+704,Ace in the Hole,1951,111,"Drama, Film-Noir",8.1,72,30824,Billy Wilder,3970000
+705,White Heat,1949,114,"Action, Crime, Drama",8.1,,29209,Raoul Walsh,
+706,The Third Man,1949,93,"Film-Noir, Mystery, Thriller",8.1,97,156370,Carol Reed,450000
+707,The Red Shoes,1948,135,"Drama, Music, Romance",8.1,,30229,"Directors: Michael Powell, Emeric Pressburger",10900000
+708,The Shop Around the Corner,1940,99,"Comedy, Drama, Romance",8.1,96,27039,Ernst Lubitsch,200000
+709,Rebecca,1940,130,"Drama, Mystery, Romance",8.1,86,120476,Alfred Hitchcock,4360000
+710,Mr. Smith Goes to Washington,1939,129,"Comedy, Drama",8.1,73,105195,Frank Capra,9600000
+711,Gone with the Wind,1939,238,"Drama, History, Romance",8.1,97,285661,"Directors: Victor Fleming, George Cukor, Sam Wood",198680000
+712,La Grande Illusion,1937,113,"Drama, War",8.1,,33364,Jean Renoir,170000
+713,It Happened One Night,1934,105,"Comedy, Romance",8.1,87,92103,Frank Capra,4360000
+714,The Passion of Joan of Arc,1928,114,"Biography, Drama, History",8.1,,46359,Carl Theodor Dreyer,20000
+715,The Circus,1928,72,"Comedy, Romance",8.1,90,28513,Charles Chaplin,
+716,Sunrise,1927,94,"Drama, Romance",8.1,,46342,F.W. Murnau,540000
+717,The General,1926,67,"Action, Adventure, Comedy",8.1,,79467,"Directors: Clyde Bruckman, Buster Keaton",1030000
+718,The Cabinet of Dr. Caligari,1920,67,"Fantasy, Horror, Mystery",8.1,,56194,Robert Wiene,
+719,Shoplifters,2018,121,"Crime, Drama",8.0,93,58260,Hirokazu Koreeda,3310000
+720,Badhaai Ho,2018,124,"Comedy, Drama",8.0,,26779,Amit Ravindernath Sharma,
+721,Marriage Story,2019,137,"Comedy, Drama, Romance",8.0,94,232900,Noah Baumbach,2000000
+722,Togo,2019,113,"Adventure, Biography, Drama",8.0,69,32633,Ericson Core,
+723,Airlift,2016,130,"Drama, History",8.0,,52177,Raja Menon,
+724,Bajrangi Bhaijaan,2015,163,"Action, Adventure, Comedy",8.0,,70525,Kabir Khan,8180000
+725,Baby (I),2015,159,"Action, Thriller",8.0,,52028,Neeraj Pandey,
+726,La La Land,2016,128,"Comedy, Drama, Music",8.0,94,492411,Damien Chazelle,151100000
+727,Lion,2016,118,"Biography, Drama",8.0,69,208735,Garth Davis,51740000
+728,The Martian,2015,144,"Adventure, Drama, Sci-Fi",8.0,80,746037,Ridley Scott,228430000
+729,Zootopia,2016,108,"Animation, Adventure, Comedy",8.0,78,424584,"Directors: Byron Howard, Rich Moore, Jared Bush",341270000
+730,The Tale of The Princess Kaguya,2013,137,"Animation, Adventure, Drama",8.0,89,37070,Isao Takahata,1510000
+731,Wonder (I),2017,113,"Drama, Family",8.0,66,136402,Stephen Chbosky,132419999
+732,Special 26,2013,144,"Crime, Drama, Thriller",8.0,,50034,Neeraj Pandey,1080000
+733,Short Term 12,2013,96,Drama,8.0,82,80321,Destin Daniel Cretton,1010000
+734,The Raid 2,2014,150,"Action, Crime, Thriller",8.0,71,112723,Gareth Evans,2630000
+735,The Imitation Game,2014,114,"Biography, Drama, Thriller",8.0,73,672577,Morten Tyldum,91130000
+736,Guardians of the Galaxy,2014,121,"Action, Adventure, Comedy",8.0,76,1028841,James Gunn,333180000
+737,Blade Runner 2049,2017,164,"Action, Drama, Mystery",8.0,81,447374,Denis Villeneuve,92050000
+738,Her,2013,126,"Drama, Romance, Sci-Fi",8.0,90,528591,Spike Jonze,25570000
+739,Bohemian Rhapsody,2018,134,"Biography, Drama, Music",8.0,,437959,Bryan Singer,216430000
+740,The Revenant,2015,156,"Action, Adventure, Drama",8.0,76,690094,Alejandro G. Iñárritu,183640000
+741,The Perks of Being a Wallflower,2012,103,"Drama, Romance",8.0,67,454585,Stephen Chbosky,17740000
+742,Elite Squad 2: The Enemy Within,2010,115,"Action, Crime, Drama",8.0,71,78484,José Padilha,100000
+743,The King's Speech,2010,118,"Biography, Drama, History",8.0,88,631099,Tom Hooper,138800000
+744,The Help,2011,146,Drama,8.0,62,421900,Tate Taylor,169710000
+745,Deadpool,2016,108,"Action, Adventure, Comedy",8.0,65,887463,Tim Miller,363070000
+746,Darbareye Elly,2009,119,"Drama, Mystery, Thriller",8.0,87,44293,Asghar Farhadi,110000
+747,Dev.D,2009,144,"Drama, Romance",8.0,,28371,Anurag Kashyap,10000
+748,Ip Man,2008,106,"Action, Biography, Drama",8.0,,209063,Wilson Yip,
+749,My Name Is Khan,2010,165,Drama,8.0,,97146,Karan Johar,4019999
+750,The Breath,2009,128,"Action, Drama, Thriller",8.0,,31368,Levent Semerci,
+751,Slumdog Millionaire,2008,120,"Drama, Romance",8.0,84,789474,"Directors: Danny Boyle, Loveleen Tandan",141320000
+752,Black Swan,2010,108,"Drama, Thriller",8.0,79,689512,Darren Aronofsky,106950000
+753,The Avengers,2012,143,"Action, Adventure, Sci-Fi",8.0,69,1246498,Joss Whedon,623280000
+754,Persepolis,2007,96,"Animation, Biography, Drama",8.0,90,87487,"Directors: Vincent Paronnaud, Marjane Satrapi",4450000
+755,Dallas Buyers Club,2013,117,"Biography, Drama",8.0,80,432916,Jean-Marc Vallée,27300000
+756,The Pursuit of Happyness,2006,117,"Biography, Drama",8.0,64,440206,Gabriele Muccino,163570000
+757,Blood Diamond,2006,143,"Adventure, Drama, Thriller",8.0,64,492148,Edward Zwick,57370000
+758,The Bourne Ultimatum,2007,115,"Action, Mystery, Thriller",8.0,85,599314,Paul Greengrass,227470000
+759,3-Iron,2004,88,"Crime, Drama, Romance",8.0,72,49242,Ki-duk Kim,240000
+760,Sin City,2005,124,"Crime, Thriller",8.0,74,734727,"Directors: Frank Miller, Quentin Tarantino, Robert Rodriguez",74100000
+761,The Diving Bell and the Butterfly,2007,112,"Biography, Drama",8.0,92,102384,"Directors: Julian Schnabel, Laura Obiols",5990000
+762,G.O.R.A.,2004,127,"Adventure, Comedy, Sci-Fi",8.0,,55570,Ömer Faruk Sorak,
+763,Ratatouille,2007,111,"Animation, Adventure, Comedy",8.0,96,628947,"Directors: Brad Bird, Jan Pinkava",206450000
+764,Casino Royale,2006,144,"Action, Adventure, Thriller",8.0,80,573813,Martin Campbell,167450000
+765,Kill Bill: Vol. 2,2004,137,"Action, Crime, Thriller",8.0,83,672810,Quentin Tarantino,66209999
+766,The Return,2003,110,Drama,8.0,82,41661,Andrey Zvyagintsev,500000
+767,"Spring, Summer, Fall, Winter... and Spring",2003,103,"Drama, Romance",8.0,85,76069,Ki-duk Kim,2380000
+768,The Sea Inside (I),2004,126,"Biography, Drama",8.0,74,76659,Alejandro Amenábar,2089999
+769,Cinderella Man,2005,144,"Biography, Drama, History",8.0,69,174120,Ron Howard,61650000
+770,Kal ho naa ho,2003,186,"Comedy, Drama, Romance",8.0,,62395,Nikkhil Advani,1790000
+771,Infernal Affairs,2002,101,"Action, Crime, Drama",8.0,75,116829,"Directors: Andrew Lau, Alan Mak",170000
+772,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,"Action, Adventure, Fantasy",8.0,63,1004943,Gore Verbinski,305410000
+773,Big Fish,2003,125,"Adventure, Drama, Fantasy",8.0,,410478,Tim Burton,66260000
+774,The Incredibles,2004,115,"Animation, Action, Adventure",8.0,90,646521,Brad Bird,261440000
+775,My Sassy Girl,2001,137,"Comedy, Drama, Romance",8.0,,44903,Jae-young Kwak,
+776,Dogville,2003,178,"Crime, Drama",8.0,,135832,Lars von Trier,1530000
+777,Vizontele,2001,110,"Comedy, Drama",8.0,,32589,"Directors: Yilmaz Erdogan, Ömer Faruk Sorak",
+778,Donnie Darko,2001,113,"Drama, Mystery, Sci-Fi",8.0,88,731386,Richard Kelly,1480000
+779,"Monsters, Inc.",2001,92,"Animation, Adventure, Comedy",8.0,79,800423,"Directors: Pete Docter, David Silverman, Lee Unkrich",289920000
+780,Magnolia,1999,188,Drama,8.0,77,286021,Paul Thomas Anderson,22460000
+781,Dancer in the Dark,2000,140,"Crime, Drama, Musical",8.0,61,100634,Lars von Trier,4179999
+782,Mulholland Drive,2001,147,"Drama, Mystery, Thriller",8.0,85,315529,David Lynch,7220000
+783,The Straight Story,1999,112,"Biography, Drama",8.0,86,80521,David Lynch,6200000
+784,Perfect Blue,1997,81,"Animation, Crime, Mystery",8.0,,55329,Satoshi Kon,780000
+785,The Celebration,1998,105,Drama,8.0,82,76840,Thomas Vinterberg,1650000
+786,Central Station,1998,110,Drama,8.0,80,35717,Walter Salles,5600000
+787,The Iron Giant,1999,86,"Animation, Action, Adventure",8.0,85,169363,Brad Bird,23160000
+788,Knockin' on Heaven's Door,1997,87,"Action, Crime, Comedy",8.0,,27227,Thomas Jahn,0
+789,Sling Blade,1996,135,Drama,8.0,84,86021,Billy Bob Thornton,24480000
+790,Secrets & Lies,1996,136,"Comedy, Drama",8.0,91,36777,Mike Leigh,13420000
+791,12 Monkeys,1995,129,"Mystery, Sci-Fi, Thriller",8.0,74,571158,Terry Gilliam,57140000
+792,Ghost in the Shell,1995,83,"Animation, Action, Crime",8.0,76,126538,Mamoru Oshii,520000
+793,The Nightmare Before Christmas,1993,76,"Animation, Family, Fantasy",8.0,82,288364,Henry Selick,75080000
+794,Groundhog Day,1993,101,"Comedy, Fantasy, Romance",8.0,72,571642,Harold Ramis,70910000
+795,"Blood In, Blood Out",1993,180,"Crime, Drama",8.0,,28464,Taylor Hackford,4500000
+796,Scent of a Woman,1992,156,Drama,8.0,,256515,Martin Brest,63900000
+797,Aladdin,1992,90,"Animation, Adventure, Comedy",8.0,86,367489,"Directors: Ron Clements, John Musker",217350000
+798,JFK,1991,189,"Drama, History, Thriller",8.0,72,139634,Oliver Stone,70410000
+799,Nights of Cabiria,1957,110,Drama,8.1,,42160,Federico Fellini,750000
+800,Throne of Blood,1957,110,"Drama, History",8.1,,45579,Akira Kurosawa,
+801,The Bridge on the River Kwai,1957,161,"Adventure, Drama, War",8.1,87,200215,David Lean,44910000
+802,On the Waterfront,1954,108,"Crime, Drama, Thriller",8.1,91,139663,Elia Kazan,9600000
+803,The Wages of Fear,1953,131,"Adventure, Drama, Thriller",8.1,85,53438,Henri-Georges Clouzot,
+804,Ace in the Hole,1951,111,"Drama, Film-Noir",8.1,72,30824,Billy Wilder,3970000
+805,White Heat,1949,114,"Action, Crime, Drama",8.1,,29209,Raoul Walsh,
+806,The Third Man,1949,93,"Film-Noir, Mystery, Thriller",8.1,97,156370,Carol Reed,450000
+807,The Red Shoes,1948,135,"Drama, Music, Romance",8.1,,30229,"Directors: Michael Powell, Emeric Pressburger",10900000
+808,The Shop Around the Corner,1940,99,"Comedy, Drama, Romance",8.1,96,27039,Ernst Lubitsch,200000
+809,Rebecca,1940,130,"Drama, Mystery, Romance",8.1,86,120476,Alfred Hitchcock,4360000
+810,Mr. Smith Goes to Washington,1939,129,"Comedy, Drama",8.1,73,105195,Frank Capra,9600000
+811,Gone with the Wind,1939,238,"Drama, History, Romance",8.1,97,285661,"Directors: Victor Fleming, George Cukor, Sam Wood",198680000
+812,La Grande Illusion,1937,113,"Drama, War",8.1,,33364,Jean Renoir,170000
+813,It Happened One Night,1934,105,"Comedy, Romance",8.1,87,92103,Frank Capra,4360000
+814,The Passion of Joan of Arc,1928,114,"Biography, Drama, History",8.1,,46359,Carl Theodor Dreyer,20000
+815,The Circus,1928,72,"Comedy, Romance",8.1,90,28513,Charles Chaplin,
+816,Sunrise,1927,94,"Drama, Romance",8.1,,46342,F.W. Murnau,540000
+817,The General,1926,67,"Action, Adventure, Comedy",8.1,,79467,"Directors: Clyde Bruckman, Buster Keaton",1030000
+818,The Cabinet of Dr. Caligari,1920,67,"Fantasy, Horror, Mystery",8.1,,56194,Robert Wiene,
+819,Shoplifters,2018,121,"Crime, Drama",8.0,93,58260,Hirokazu Koreeda,3310000
+820,Badhaai Ho,2018,124,"Comedy, Drama",8.0,,26779,Amit Ravindernath Sharma,
+821,Marriage Story,2019,137,"Comedy, Drama, Romance",8.0,94,232900,Noah Baumbach,2000000
+822,Togo,2019,113,"Adventure, Biography, Drama",8.0,69,32633,Ericson Core,
+823,Airlift,2016,130,"Drama, History",8.0,,52177,Raja Menon,
+824,Bajrangi Bhaijaan,2015,163,"Action, Adventure, Comedy",8.0,,70525,Kabir Khan,8180000
+825,Baby (I),2015,159,"Action, Thriller",8.0,,52028,Neeraj Pandey,
+826,La La Land,2016,128,"Comedy, Drama, Music",8.0,94,492411,Damien Chazelle,151100000
+827,Lion,2016,118,"Biography, Drama",8.0,69,208735,Garth Davis,51740000
+828,The Martian,2015,144,"Adventure, Drama, Sci-Fi",8.0,80,746037,Ridley Scott,228430000
+829,Zootopia,2016,108,"Animation, Adventure, Comedy",8.0,78,424584,"Directors: Byron Howard, Rich Moore, Jared Bush",341270000
+830,The Tale of The Princess Kaguya,2013,137,"Animation, Adventure, Drama",8.0,89,37070,Isao Takahata,1510000
+831,Wonder (I),2017,113,"Drama, Family",8.0,66,136402,Stephen Chbosky,132419999
+832,Special 26,2013,144,"Crime, Drama, Thriller",8.0,,50034,Neeraj Pandey,1080000
+833,Short Term 12,2013,96,Drama,8.0,82,80321,Destin Daniel Cretton,1010000
+834,The Raid 2,2014,150,"Action, Crime, Thriller",8.0,71,112723,Gareth Evans,2630000
+835,The Imitation Game,2014,114,"Biography, Drama, Thriller",8.0,73,672577,Morten Tyldum,91130000
+836,Guardians of the Galaxy,2014,121,"Action, Adventure, Comedy",8.0,76,1028841,James Gunn,333180000
+837,Blade Runner 2049,2017,164,"Action, Drama, Mystery",8.0,81,447374,Denis Villeneuve,92050000
+838,Her,2013,126,"Drama, Romance, Sci-Fi",8.0,90,528591,Spike Jonze,25570000
+839,Bohemian Rhapsody,2018,134,"Biography, Drama, Music",8.0,,437959,Bryan Singer,216430000
+840,The Revenant,2015,156,"Action, Adventure, Drama",8.0,76,690094,Alejandro G. Iñárritu,183640000
+841,The Perks of Being a Wallflower,2012,103,"Drama, Romance",8.0,67,454585,Stephen Chbosky,17740000
+842,Elite Squad 2: The Enemy Within,2010,115,"Action, Crime, Drama",8.0,71,78484,José Padilha,100000
+843,The King's Speech,2010,118,"Biography, Drama, History",8.0,88,631099,Tom Hooper,138800000
+844,The Help,2011,146,Drama,8.0,62,421900,Tate Taylor,169710000
+845,Deadpool,2016,108,"Action, Adventure, Comedy",8.0,65,887463,Tim Miller,363070000
+846,Darbareye Elly,2009,119,"Drama, Mystery, Thriller",8.0,87,44293,Asghar Farhadi,110000
+847,Dev.D,2009,144,"Drama, Romance",8.0,,28371,Anurag Kashyap,10000
+848,Ip Man,2008,106,"Action, Biography, Drama",8.0,,209063,Wilson Yip,
+849,My Name Is Khan,2010,165,Drama,8.0,,97146,Karan Johar,4019999
+850,The Breath,2009,128,"Action, Drama, Thriller",8.0,,31368,Levent Semerci,
+851,Slumdog Millionaire,2008,120,"Drama, Romance",8.0,84,789474,"Directors: Danny Boyle, Loveleen Tandan",141320000
+852,Black Swan,2010,108,"Drama, Thriller",8.0,79,689512,Darren Aronofsky,106950000
+853,The Avengers,2012,143,"Action, Adventure, Sci-Fi",8.0,69,1246498,Joss Whedon,623280000
+854,Persepolis,2007,96,"Animation, Biography, Drama",8.0,90,87487,"Directors: Vincent Paronnaud, Marjane Satrapi",4450000
+855,Dallas Buyers Club,2013,117,"Biography, Drama",8.0,80,432916,Jean-Marc Vallée,27300000
+856,The Pursuit of Happyness,2006,117,"Biography, Drama",8.0,64,440206,Gabriele Muccino,163570000
+857,Blood Diamond,2006,143,"Adventure, Drama, Thriller",8.0,64,492148,Edward Zwick,57370000
+858,The Bourne Ultimatum,2007,115,"Action, Mystery, Thriller",8.0,85,599314,Paul Greengrass,227470000
+859,3-Iron,2004,88,"Crime, Drama, Romance",8.0,72,49242,Ki-duk Kim,240000
+860,Sin City,2005,124,"Crime, Thriller",8.0,74,734727,"Directors: Frank Miller, Quentin Tarantino, Robert Rodriguez",74100000
+861,The Diving Bell and the Butterfly,2007,112,"Biography, Drama",8.0,92,102384,"Directors: Julian Schnabel, Laura Obiols",5990000
+862,G.O.R.A.,2004,127,"Adventure, Comedy, Sci-Fi",8.0,,55570,Ömer Faruk Sorak,
+863,Ratatouille,2007,111,"Animation, Adventure, Comedy",8.0,96,628947,"Directors: Brad Bird, Jan Pinkava",206450000
+864,Casino Royale,2006,144,"Action, Adventure, Thriller",8.0,80,573813,Martin Campbell,167450000
+865,Kill Bill: Vol. 2,2004,137,"Action, Crime, Thriller",8.0,83,672810,Quentin Tarantino,66209999
+866,The Return,2003,110,Drama,8.0,82,41661,Andrey Zvyagintsev,500000
+867,"Spring, Summer, Fall, Winter... and Spring",2003,103,"Drama, Romance",8.0,85,76069,Ki-duk Kim,2380000
+868,The Sea Inside (I),2004,126,"Biography, Drama",8.0,74,76659,Alejandro Amenábar,2089999
+869,Cinderella Man,2005,144,"Biography, Drama, History",8.0,69,174120,Ron Howard,61650000
+870,Kal ho naa ho,2003,186,"Comedy, Drama, Romance",8.0,,62395,Nikkhil Advani,1790000
+871,Infernal Affairs,2002,101,"Action, Crime, Drama",8.0,75,116829,"Directors: Andrew Lau, Alan Mak",170000
+872,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,"Action, Adventure, Fantasy",8.0,63,1004943,Gore Verbinski,305410000
+873,Big Fish,2003,125,"Adventure, Drama, Fantasy",8.0,,410478,Tim Burton,66260000
+874,The Incredibles,2004,115,"Animation, Action, Adventure",8.0,90,646521,Brad Bird,261440000
+875,My Sassy Girl,2001,137,"Comedy, Drama, Romance",8.0,,44903,Jae-young Kwak,
+876,Dogville,2003,178,"Crime, Drama",8.0,,135832,Lars von Trier,1530000
+877,Vizontele,2001,110,"Comedy, Drama",8.0,,32589,"Directors: Yilmaz Erdogan, Ömer Faruk Sorak",
+878,Donnie Darko,2001,113,"Drama, Mystery, Sci-Fi",8.0,88,731386,Richard Kelly,1480000
+879,"Monsters, Inc.",2001,92,"Animation, Adventure, Comedy",8.0,79,800423,"Directors: Pete Docter, David Silverman, Lee Unkrich",289920000
+880,Magnolia,1999,188,Drama,8.0,77,286021,Paul Thomas Anderson,22460000
+881,Dancer in the Dark,2000,140,"Crime, Drama, Musical",8.0,61,100634,Lars von Trier,4179999
+882,Mulholland Drive,2001,147,"Drama, Mystery, Thriller",8.0,85,315529,David Lynch,7220000
+883,The Straight Story,1999,112,"Biography, Drama",8.0,86,80521,David Lynch,6200000
+884,Perfect Blue,1997,81,"Animation, Crime, Mystery",8.0,,55329,Satoshi Kon,780000
+885,The Celebration,1998,105,Drama,8.0,82,76840,Thomas Vinterberg,1650000
+886,Central Station,1998,110,Drama,8.0,80,35717,Walter Salles,5600000
+887,The Iron Giant,1999,86,"Animation, Action, Adventure",8.0,85,169363,Brad Bird,23160000
+888,Knockin' on Heaven's Door,1997,87,"Action, Crime, Comedy",8.0,,27227,Thomas Jahn,0
+889,Sling Blade,1996,135,Drama,8.0,84,86021,Billy Bob Thornton,24480000
+890,Secrets & Lies,1996,136,"Comedy, Drama",8.0,91,36777,Mike Leigh,13420000
+891,12 Monkeys,1995,129,"Mystery, Sci-Fi, Thriller",8.0,74,571158,Terry Gilliam,57140000
+892,Ghost in the Shell,1995,83,"Animation, Action, Crime",8.0,76,126538,Mamoru Oshii,520000
+893,The Nightmare Before Christmas,1993,76,"Animation, Family, Fantasy",8.0,82,288364,Henry Selick,75080000
+894,Groundhog Day,1993,101,"Comedy, Fantasy, Romance",8.0,72,571642,Harold Ramis,70910000
+895,"Blood In, Blood Out",1993,180,"Crime, Drama",8.0,,28464,Taylor Hackford,4500000
+896,Scent of a Woman,1992,156,Drama,8.0,,256515,Martin Brest,63900000
+897,Aladdin,1992,90,"Animation, Adventure, Comedy",8.0,86,367489,"Directors: Ron Clements, John Musker",217350000
+898,JFK,1991,189,"Drama, History, Thriller",8.0,72,139634,Oliver Stone,70410000
+899,Nights of Cabiria,1957,110,Drama,8.1,,42160,Federico Fellini,750000
+900,Throne of Blood,1957,110,"Drama, History",8.1,,45579,Akira Kurosawa,
+901,The Bridge on the River Kwai,1957,161,"Adventure, Drama, War",8.1,87,200215,David Lean,44910000
+902,On the Waterfront,1954,108,"Crime, Drama, Thriller",8.1,91,139663,Elia Kazan,9600000
+903,The Wages of Fear,1953,131,"Adventure, Drama, Thriller",8.1,85,53438,Henri-Georges Clouzot,
+904,Ace in the Hole,1951,111,"Drama, Film-Noir",8.1,72,30824,Billy Wilder,3970000
+905,White Heat,1949,114,"Action, Crime, Drama",8.1,,29209,Raoul Walsh,
+906,The Third Man,1949,93,"Film-Noir, Mystery, Thriller",8.1,97,156370,Carol Reed,450000
+907,The Red Shoes,1948,135,"Drama, Music, Romance",8.1,,30229,"Directors: Michael Powell, Emeric Pressburger",10900000
+908,The Shop Around the Corner,1940,99,"Comedy, Drama, Romance",8.1,96,27039,Ernst Lubitsch,200000
+909,Rebecca,1940,130,"Drama, Mystery, Romance",8.1,86,120476,Alfred Hitchcock,4360000
+910,Mr. Smith Goes to Washington,1939,129,"Comedy, Drama",8.1,73,105195,Frank Capra,9600000
+911,Gone with the Wind,1939,238,"Drama, History, Romance",8.1,97,285661,"Directors: Victor Fleming, George Cukor, Sam Wood",198680000
+912,La Grande Illusion,1937,113,"Drama, War",8.1,,33364,Jean Renoir,170000
+913,It Happened One Night,1934,105,"Comedy, Romance",8.1,87,92103,Frank Capra,4360000
+914,The Passion of Joan of Arc,1928,114,"Biography, Drama, History",8.1,,46359,Carl Theodor Dreyer,20000
+915,The Circus,1928,72,"Comedy, Romance",8.1,90,28513,Charles Chaplin,
+916,Sunrise,1927,94,"Drama, Romance",8.1,,46342,F.W. Murnau,540000
+917,The General,1926,67,"Action, Adventure, Comedy",8.1,,79467,"Directors: Clyde Bruckman, Buster Keaton",1030000
+918,The Cabinet of Dr. Caligari,1920,67,"Fantasy, Horror, Mystery",8.1,,56194,Robert Wiene,
+919,Shoplifters,2018,121,"Crime, Drama",8.0,93,58260,Hirokazu Koreeda,3310000
+920,Badhaai Ho,2018,124,"Comedy, Drama",8.0,,26779,Amit Ravindernath Sharma,
+921,Marriage Story,2019,137,"Comedy, Drama, Romance",8.0,94,232900,Noah Baumbach,2000000
+922,Togo,2019,113,"Adventure, Biography, Drama",8.0,69,32633,Ericson Core,
+923,Airlift,2016,130,"Drama, History",8.0,,52177,Raja Menon,
+924,Bajrangi Bhaijaan,2015,163,"Action, Adventure, Comedy",8.0,,70525,Kabir Khan,8180000
+925,Baby (I),2015,159,"Action, Thriller",8.0,,52028,Neeraj Pandey,
+926,La La Land,2016,128,"Comedy, Drama, Music",8.0,94,492411,Damien Chazelle,151100000
+927,Lion,2016,118,"Biography, Drama",8.0,69,208735,Garth Davis,51740000
+928,The Martian,2015,144,"Adventure, Drama, Sci-Fi",8.0,80,746037,Ridley Scott,228430000
+929,Zootopia,2016,108,"Animation, Adventure, Comedy",8.0,78,424584,"Directors: Byron Howard, Rich Moore, Jared Bush",341270000
+930,The Tale of The Princess Kaguya,2013,137,"Animation, Adventure, Drama",8.0,89,37070,Isao Takahata,1510000
+931,Wonder (I),2017,113,"Drama, Family",8.0,66,136402,Stephen Chbosky,132419999
+932,Special 26,2013,144,"Crime, Drama, Thriller",8.0,,50034,Neeraj Pandey,1080000
+933,Short Term 12,2013,96,Drama,8.0,82,80321,Destin Daniel Cretton,1010000
+934,The Raid 2,2014,150,"Action, Crime, Thriller",8.0,71,112723,Gareth Evans,2630000
+935,The Imitation Game,2014,114,"Biography, Drama, Thriller",8.0,73,672577,Morten Tyldum,91130000
+936,Guardians of the Galaxy,2014,121,"Action, Adventure, Comedy",8.0,76,1028841,James Gunn,333180000
+937,Blade Runner 2049,2017,164,"Action, Drama, Mystery",8.0,81,447374,Denis Villeneuve,92050000
+938,Her,2013,126,"Drama, Romance, Sci-Fi",8.0,90,528591,Spike Jonze,25570000
+939,Bohemian Rhapsody,2018,134,"Biography, Drama, Music",8.0,,437959,Bryan Singer,216430000
+940,The Revenant,2015,156,"Action, Adventure, Drama",8.0,76,690094,Alejandro G. Iñárritu,183640000
+941,The Perks of Being a Wallflower,2012,103,"Drama, Romance",8.0,67,454585,Stephen Chbosky,17740000
+942,Elite Squad 2: The Enemy Within,2010,115,"Action, Crime, Drama",8.0,71,78484,José Padilha,100000
+943,The King's Speech,2010,118,"Biography, Drama, History",8.0,88,631099,Tom Hooper,138800000
+944,The Help,2011,146,Drama,8.0,62,421900,Tate Taylor,169710000
+945,Deadpool,2016,108,"Action, Adventure, Comedy",8.0,65,887463,Tim Miller,363070000
+946,Darbareye Elly,2009,119,"Drama, Mystery, Thriller",8.0,87,44293,Asghar Farhadi,110000
+947,Dev.D,2009,144,"Drama, Romance",8.0,,28371,Anurag Kashyap,10000
+948,Ip Man,2008,106,"Action, Biography, Drama",8.0,,209063,Wilson Yip,
+949,My Name Is Khan,2010,165,Drama,8.0,,97146,Karan Johar,4019999
+950,The Breath,2009,128,"Action, Drama, Thriller",8.0,,31368,Levent Semerci,
+951,Slumdog Millionaire,2008,120,"Drama, Romance",8.0,84,789474,"Directors: Danny Boyle, Loveleen Tandan",141320000
+952,Black Swan,2010,108,"Drama, Thriller",8.0,79,689512,Darren Aronofsky,106950000
+953,The Avengers,2012,143,"Action, Adventure, Sci-Fi",8.0,69,1246498,Joss Whedon,623280000
+954,Persepolis,2007,96,"Animation, Biography, Drama",8.0,90,87487,"Directors: Vincent Paronnaud, Marjane Satrapi",4450000
+955,Dallas Buyers Club,2013,117,"Biography, Drama",8.0,80,432916,Jean-Marc Vallée,27300000
+956,The Pursuit of Happyness,2006,117,"Biography, Drama",8.0,64,440206,Gabriele Muccino,163570000
+957,Blood Diamond,2006,143,"Adventure, Drama, Thriller",8.0,64,492148,Edward Zwick,57370000
+958,The Bourne Ultimatum,2007,115,"Action, Mystery, Thriller",8.0,85,599314,Paul Greengrass,227470000
+959,3-Iron,2004,88,"Crime, Drama, Romance",8.0,72,49242,Ki-duk Kim,240000
+960,Sin City,2005,124,"Crime, Thriller",8.0,74,734727,"Directors: Frank Miller, Quentin Tarantino, Robert Rodriguez",74100000
+961,The Diving Bell and the Butterfly,2007,112,"Biography, Drama",8.0,92,102384,"Directors: Julian Schnabel, Laura Obiols",5990000
+962,G.O.R.A.,2004,127,"Adventure, Comedy, Sci-Fi",8.0,,55570,Ömer Faruk Sorak,
+963,Ratatouille,2007,111,"Animation, Adventure, Comedy",8.0,96,628947,"Directors: Brad Bird, Jan Pinkava",206450000
+964,Casino Royale,2006,144,"Action, Adventure, Thriller",8.0,80,573813,Martin Campbell,167450000
+965,Kill Bill: Vol. 2,2004,137,"Action, Crime, Thriller",8.0,83,672810,Quentin Tarantino,66209999
+966,The Return,2003,110,Drama,8.0,82,41661,Andrey Zvyagintsev,500000
+967,"Spring, Summer, Fall, Winter... and Spring",2003,103,"Drama, Romance",8.0,85,76069,Ki-duk Kim,2380000
+968,The Sea Inside (I),2004,126,"Biography, Drama",8.0,74,76659,Alejandro Amenábar,2089999
+969,Cinderella Man,2005,144,"Biography, Drama, History",8.0,69,174120,Ron Howard,61650000
+970,Kal ho naa ho,2003,186,"Comedy, Drama, Romance",8.0,,62395,Nikkhil Advani,1790000
+971,Infernal Affairs,2002,101,"Action, Crime, Drama",8.0,75,116829,"Directors: Andrew Lau, Alan Mak",170000
+972,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,"Action, Adventure, Fantasy",8.0,63,1004943,Gore Verbinski,305410000
+973,Big Fish,2003,125,"Adventure, Drama, Fantasy",8.0,,410478,Tim Burton,66260000
+974,The Incredibles,2004,115,"Animation, Action, Adventure",8.0,90,646521,Brad Bird,261440000
+975,My Sassy Girl,2001,137,"Comedy, Drama, Romance",8.0,,44903,Jae-young Kwak,
+976,Dogville,2003,178,"Crime, Drama",8.0,,135832,Lars von Trier,1530000
+977,Vizontele,2001,110,"Comedy, Drama",8.0,,32589,"Directors: Yilmaz Erdogan, Ömer Faruk Sorak",
+978,Donnie Darko,2001,113,"Drama, Mystery, Sci-Fi",8.0,88,731386,Richard Kelly,1480000
+979,"Monsters, Inc.",2001,92,"Animation, Adventure, Comedy",8.0,79,800423,"Directors: Pete Docter, David Silverman, Lee Unkrich",289920000
+980,Magnolia,1999,188,Drama,8.0,77,286021,Paul Thomas Anderson,22460000
+981,Dancer in the Dark,2000,140,"Crime, Drama, Musical",8.0,61,100634,Lars von Trier,4179999
+982,Mulholland Drive,2001,147,"Drama, Mystery, Thriller",8.0,85,315529,David Lynch,7220000
+983,The Straight Story,1999,112,"Biography, Drama",8.0,86,80521,David Lynch,6200000
+984,Perfect Blue,1997,81,"Animation, Crime, Mystery",8.0,,55329,Satoshi Kon,780000
+985,The Celebration,1998,105,Drama,8.0,82,76840,Thomas Vinterberg,1650000
+986,Central Station,1998,110,Drama,8.0,80,35717,Walter Salles,5600000
+987,The Iron Giant,1999,86,"Animation, Action, Adventure",8.0,85,169363,Brad Bird,23160000
+988,Knockin' on Heaven's Door,1997,87,"Action, Crime, Comedy",8.0,,27227,Thomas Jahn,0
+989,Sling Blade,1996,135,Drama,8.0,84,86021,Billy Bob Thornton,24480000
+990,Secrets & Lies,1996,136,"Comedy, Drama",8.0,91,36777,Mike Leigh,13420000
+991,12 Monkeys,1995,129,"Mystery, Sci-Fi, Thriller",8.0,74,571158,Terry Gilliam,57140000
+992,Ghost in the Shell,1995,83,"Animation, Action, Crime",8.0,76,126538,Mamoru Oshii,520000
+993,The Nightmare Before Christmas,1993,76,"Animation, Family, Fantasy",8.0,82,288364,Henry Selick,75080000
+994,Groundhog Day,1993,101,"Comedy, Fantasy, Romance",8.0,72,571642,Harold Ramis,70910000
+995,"Blood In, Blood Out",1993,180,"Crime, Drama",8.0,,28464,Taylor Hackford,4500000
+996,Scent of a Woman,1992,156,Drama,8.0,,256515,Martin Brest,63900000
+997,Aladdin,1992,90,"Animation, Adventure, Comedy",8.0,86,367489,"Directors: Ron Clements, John Musker",217350000
+998,JFK,1991,189,"Drama, History, Thriller",8.0,72,139634,Oliver Stone,70410000
+999,Nights of Cabiria,1957,110,Drama,8.1,,42160,Federico Fellini,750000
+1000,Throne of Blood,1957,110,"Drama, History",8.1,,45579,Akira Kurosawa,

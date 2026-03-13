@@ -1,0 +1,48 @@
+#### Popular and Short: Movies with a runtime of 100 minutes or less
+## in the top 30% of votes,
+## ordered by rate in descending order.
+
+import sqlite3
+import pandas as pd
+from pathlib import Path
+
+base_dir = Path(__file__).resolve().parent.parent
+db_path = base_dir/'create_tables_in_db'/'watch_next.db'
+
+def get_popular_short():
+
+    conn = sqlite3.connect(db_path)
+    conn.execute("PRAGMA foreign_keys = ON")
+
+    df = pd.read_sql_query('''
+    WITH percentile AS (
+        SELECT votes
+        FROM movies
+        ORDER BY votes
+        LIMIT 1 OFFSET CAST((SELECT COUNT(*) FROM movies) * 0.70 AS INTEGER)
+    ),
+
+    genre_agg AS (
+        SELECT mg.movie_id,
+            REPLACE(GROUP_CONCAT(DISTINCT g.genre_name), ',', ', ') AS genre
+        FROM movie_genre mg
+        JOIN genres g ON mg.genre_id = g.genre_id
+        GROUP BY mg.movie_id
+    )
+
+    SELECT
+        m.movie_title,
+        m.release_year,
+        m.runtime_min,
+        ga.genre,
+        m.rate,
+        m.votes
+    FROM movies m
+    JOIN genre_agg ga ON m.movie_id = ga.movie_id
+    WHERE m.runtime_min <= 100
+      AND m.votes >= (SELECT votes FROM percentile)
+    ORDER BY m.rate DESC;
+    ''', conn)
+    conn.close()
+
+    return df
